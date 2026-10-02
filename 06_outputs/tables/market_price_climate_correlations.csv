@@ -1,0 +1,5 @@
+market,observations,price_precipitation_anomaly_correlation,price_temperature_anomaly_correlation
+eldoret,127,0.203,0.005
+kisumu,90,0.174,0.165
+nairobi,96,-0.076,0.083
+nakuru,94,0.196,0.031

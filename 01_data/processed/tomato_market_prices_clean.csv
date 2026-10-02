@@ -1,0 +1,784 @@
+date,year,month_number,commodity,market,county,unit,kg,price,price_per_kg,source
+2012-01-01,2012,1,tomatoes,busia,busia,kg,1,48.828,48.828,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-02-01,2012,2,tomatoes,busia,busia,kg,1,87.891,87.891,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-03-01,2012,3,tomatoes,busia,busia,kg,1,71.452,71.452,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-04-01,2012,4,tomatoes,busia,busia,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-05-01,2012,5,tomatoes,busia,busia,kg,1,45.964,45.964,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-06-01,2012,6,tomatoes,busia,busia,kg,1,48.828,48.828,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-07-01,2012,7,tomatoes,busia,busia,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-08-01,2012,8,tomatoes,busia,busia,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-09-01,2012,9,tomatoes,busia,busia,kg,1,47.07,47.07,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-10-01,2012,10,tomatoes,busia,busia,kg,1,41.797,41.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,busia,busia,kg,1,48.568,48.568,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,busia,busia,kg,1,39.258,39.258,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,busia,busia,kg,1,38.086,38.086,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,busia,busia,kg,1,34.375,34.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,busia,busia,kg,1,39.063,39.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,busia,busia,kg,1,67.708,67.708,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,busia,busia,kg,1,53.125,53.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,busia,busia,kg,1,38.047,38.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,busia,busia,kg,1,41.594,41.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,busia,busia,kg,1,47.266,47.266,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,busia,busia,kg,1,45.66,45.66,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,busia,busia,kg,1,50.195,50.195,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,busia,busia,kg,1,43.229,43.229,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,busia,busia,kg,1,41.406,41.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,busia,busia,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,busia,busia,kg,1,72.917,72.917,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,busia,busia,kg,1,85.938,85.938,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,busia,busia,kg,1,85.938,85.938,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-05-01,2014,5,tomatoes,busia,busia,kg,1,74.219,74.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-06-01,2014,6,tomatoes,busia,busia,kg,1,51.563,51.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,busia,busia,kg,1,54.688,54.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,busia,busia,kg,1,83.984,83.984,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,busia,busia,kg,1,79.987,79.987,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,busia,busia,kg,1,58.594,58.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,busia,busia,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,busia,busia,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,busia,busia,kg,1,59.891,59.891,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,busia,busia,kg,1,72.266,72.266,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,busia,busia,kg,1,58.594,58.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,busia,busia,kg,1,58.594,58.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,busia,busia,kg,1,53.125,53.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,busia,busia,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,busia,busia,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,busia,busia,kg,1,54.688,54.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,busia,busia,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,busia,busia,kg,1,77.148,77.148,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-03-01,2017,3,tomatoes,busia,busia,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-04-01,2017,4,tomatoes,busia,busia,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-05-01,2017,5,tomatoes,busia,busia,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-06-01,2017,6,tomatoes,busia,busia,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-07-01,2017,7,tomatoes,busia,busia,kg,1,48.828,48.828,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,busia,busia,kg,1,74.219,74.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,busia,busia,kg,1,52.734,52.734,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,busia,busia,kg,1,67.188,67.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,busia,busia,kg,1,68.359,68.359,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,busia,busia,kg,1,68.49,68.49,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,busia,busia,kg,1,69.844,69.844,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-06-01,2018,6,tomatoes,busia,busia,kg,1,64.316,64.316,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,busia,busia,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,busia,busia,kg,1,65.156,65.156,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,busia,busia,kg,1,54.688,54.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,busia,busia,kg,1,61.849,61.849,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,busia,busia,kg,1,92.014,92.014,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,busia,busia,kg,1,86.719,86.719,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,busia,busia,kg,1,91.797,91.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,busia,busia,kg,1,79.427,79.427,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,busia,busia,kg,1,67.708,67.708,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,busia,busia,kg,1,59.028,59.028,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,busia,busia,kg,1,55.122,55.122,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,busia,busia,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,busia,busia,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-11-01,2019,11,tomatoes,busia,busia,kg,1,61.523,61.523,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-12-01,2019,12,tomatoes,busia,busia,kg,1,74.219,74.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-01-01,2020,1,tomatoes,busia,busia,kg,1,95.573,95.573,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,busia,busia,kg,1,97.665,97.665,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-08-01,2020,8,tomatoes,busia,busia,kg,1,51.758,51.758,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-10-01,2020,10,tomatoes,busia,busia,kg,1,39.063,39.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-11-01,2020,11,tomatoes,busia,busia,kg,1,45.313,45.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-12-01,2020,12,tomatoes,busia,busia,kg,1,50.129,50.129,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-01-01,2021,1,tomatoes,busia,busia,kg,1,62.517,62.517,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-06-01,2021,6,tomatoes,busia,busia,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-07-01,2021,7,tomatoes,busia,busia,kg,1,59.575,59.575,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-08-01,2021,8,tomatoes,busia,busia,kg,1,51.975,51.975,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-09-01,2021,9,tomatoes,busia,busia,kg,1,48.2,48.2,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-10-01,2021,10,tomatoes,busia,busia,kg,1,48.467,48.467,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-11-01,2021,11,tomatoes,busia,busia,kg,1,42.05,42.05,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-12-01,2021,12,tomatoes,busia,busia,kg,1,48.475,48.475,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-01-01,2022,1,tomatoes,busia,busia,kg,1,67.733,67.733,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-02-01,2022,2,tomatoes,busia,busia,kg,1,73.8,73.8,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-03-01,2022,3,tomatoes,busia,busia,kg,1,53.125,53.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-04-01,2022,4,tomatoes,busia,busia,kg,1,65.1,65.1,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-05-01,2022,5,tomatoes,busia,busia,kg,1,92.733,92.733,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-06-01,2022,6,tomatoes,busia,busia,kg,1,46.9,46.9,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-07-01,2022,7,tomatoes,busia,busia,kg,1,67.575,67.575,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-01-01,2023,1,tomatoes,busia,busia,kg,1,46.9,46.9,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-02-01,2023,2,tomatoes,busia,busia,kg,1,50.792,50.792,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-03-01,2023,3,tomatoes,busia,busia,kg,1,54.695,54.695,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-04-01,2023,4,tomatoes,busia,busia,kg,1,49.492,49.492,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-05-01,2023,5,tomatoes,busia,busia,kg,1,46.89,46.89,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-06-01,2023,6,tomatoes,busia,busia,kg,1,50.791,50.791,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-07-01,2023,7,tomatoes,busia,busia,kg,1,39.717,39.717,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-08-01,2023,8,tomatoes,busia,busia,kg,1,41.15,41.15,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-09-01,2023,9,tomatoes,busia,busia,kg,1,54.69,54.69,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-10-01,2023,10,tomatoes,busia,busia,kg,1,56.642,56.642,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-11-01,2023,11,tomatoes,busia,busia,kg,1,60.291,60.291,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-12-01,2023,12,tomatoes,busia,busia,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-01-01,2024,1,tomatoes,busia,busia,kg,1,46.88,46.88,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-02-01,2024,2,tomatoes,busia,busia,kg,1,54.69,54.69,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-03-01,2024,3,tomatoes,busia,busia,kg,1,54.69,54.69,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-04-01,2024,4,tomatoes,busia,busia,kg,1,583.33,583.33,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-01-01,2012,1,tomatoes,eldoret,uasin gishu,kg,1,66.328,66.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-02-01,2012,2,tomatoes,eldoret,uasin gishu,kg,1,76.953,76.953,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-03-01,2012,3,tomatoes,eldoret,uasin gishu,kg,1,61.484,61.484,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-04-01,2012,4,tomatoes,eldoret,uasin gishu,kg,1,47.012,47.012,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-05-01,2012,5,tomatoes,eldoret,uasin gishu,kg,1,60.313,60.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-06-01,2012,6,tomatoes,eldoret,uasin gishu,kg,1,75.0,75.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-07-01,2012,7,tomatoes,eldoret,uasin gishu,kg,1,49.063,49.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-08-01,2012,8,tomatoes,eldoret,uasin gishu,kg,1,52.344,52.344,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-09-01,2012,9,tomatoes,eldoret,uasin gishu,kg,1,51.016,51.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-10-01,2012,10,tomatoes,eldoret,uasin gishu,kg,1,54.766,54.766,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,eldoret,uasin gishu,kg,1,79.531,79.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,eldoret,uasin gishu,kg,1,72.695,72.695,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,eldoret,uasin gishu,kg,1,57.734,57.734,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,eldoret,uasin gishu,kg,1,57.656,57.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,eldoret,uasin gishu,kg,1,55.844,55.844,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,eldoret,uasin gishu,kg,1,96.68,96.68,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,eldoret,uasin gishu,kg,1,111.25,111.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,eldoret,uasin gishu,kg,1,66.172,66.172,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,eldoret,uasin gishu,kg,1,40.438,40.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,eldoret,uasin gishu,kg,1,42.383,42.383,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,eldoret,uasin gishu,kg,1,35.156,35.156,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,eldoret,uasin gishu,kg,1,48.406,48.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,eldoret,uasin gishu,kg,1,52.969,52.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,eldoret,uasin gishu,kg,1,44.219,44.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,eldoret,uasin gishu,kg,1,48.125,48.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,eldoret,uasin gishu,kg,1,68.628,68.628,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,eldoret,uasin gishu,kg,1,66.563,66.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,eldoret,uasin gishu,kg,1,66.66,66.66,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-05-01,2014,5,tomatoes,eldoret,uasin gishu,kg,1,75.0,75.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-06-01,2014,6,tomatoes,eldoret,uasin gishu,kg,1,54.935,54.935,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,eldoret,uasin gishu,kg,1,81.477,81.477,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,eldoret,uasin gishu,kg,1,103.906,103.906,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,eldoret,uasin gishu,kg,1,90.781,90.781,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,eldoret,uasin gishu,kg,1,56.563,56.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-11-01,2014,11,tomatoes,eldoret,uasin gishu,kg,1,56.016,56.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-12-01,2014,12,tomatoes,eldoret,uasin gishu,kg,1,50.949,50.949,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-01-01,2015,1,tomatoes,eldoret,uasin gishu,kg,1,54.604,54.604,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-02-01,2015,2,tomatoes,eldoret,uasin gishu,kg,1,66.563,66.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-03-01,2015,3,tomatoes,eldoret,uasin gishu,kg,1,66.75,66.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-04-01,2015,4,tomatoes,eldoret,uasin gishu,kg,1,76.68,76.68,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-05-01,2015,5,tomatoes,eldoret,uasin gishu,kg,1,75.859,75.859,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-06-01,2015,6,tomatoes,eldoret,uasin gishu,kg,1,76.875,76.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-07-01,2015,7,tomatoes,eldoret,uasin gishu,kg,1,65.813,65.813,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-08-01,2015,8,tomatoes,eldoret,uasin gishu,kg,1,65.391,65.391,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-09-01,2015,9,tomatoes,eldoret,uasin gishu,kg,1,78.906,78.906,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-10-01,2015,10,tomatoes,eldoret,uasin gishu,kg,1,71.672,71.672,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-11-01,2015,11,tomatoes,eldoret,uasin gishu,kg,1,81.031,81.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-12-01,2015,12,tomatoes,eldoret,uasin gishu,kg,1,103.719,103.719,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-01-01,2016,1,tomatoes,eldoret,uasin gishu,kg,1,107.656,107.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-02-01,2016,2,tomatoes,eldoret,uasin gishu,kg,1,92.109,92.109,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,eldoret,uasin gishu,kg,1,87.083,87.083,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,eldoret,uasin gishu,kg,1,88.594,88.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,eldoret,uasin gishu,kg,1,105.984,105.984,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,eldoret,uasin gishu,kg,1,120.703,120.703,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,eldoret,uasin gishu,kg,1,122.012,122.012,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,eldoret,uasin gishu,kg,1,89.625,89.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,eldoret,uasin gishu,kg,1,81.188,81.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,eldoret,uasin gishu,kg,1,74.375,74.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,eldoret,uasin gishu,kg,1,74.375,74.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,eldoret,uasin gishu,kg,1,88.328,88.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,eldoret,uasin gishu,kg,1,88.375,88.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,eldoret,uasin gishu,kg,1,91.797,91.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-03-01,2017,3,tomatoes,eldoret,uasin gishu,kg,1,96.75,96.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-04-01,2017,4,tomatoes,eldoret,uasin gishu,kg,1,96.75,96.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-05-01,2017,5,tomatoes,eldoret,uasin gishu,kg,1,96.75,96.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-06-01,2017,6,tomatoes,eldoret,uasin gishu,kg,1,96.75,96.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-07-01,2017,7,tomatoes,eldoret,uasin gishu,kg,1,80.391,80.391,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,eldoret,uasin gishu,kg,1,116.563,116.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,eldoret,uasin gishu,kg,1,146.875,146.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,eldoret,uasin gishu,kg,1,98.125,98.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,eldoret,uasin gishu,kg,1,99.023,99.023,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,eldoret,uasin gishu,kg,1,64.714,64.714,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,eldoret,uasin gishu,kg,1,128.203,128.203,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-06-01,2018,6,tomatoes,eldoret,uasin gishu,kg,1,174.023,174.023,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,eldoret,uasin gishu,kg,1,93.438,93.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,eldoret,uasin gishu,kg,1,57.219,57.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,eldoret,uasin gishu,kg,1,55.625,55.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,eldoret,uasin gishu,kg,1,66.344,66.344,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,eldoret,uasin gishu,kg,1,92.969,92.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,eldoret,uasin gishu,kg,1,87.938,87.938,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,eldoret,uasin gishu,kg,1,82.617,82.617,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,eldoret,uasin gishu,kg,1,65.906,65.906,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,eldoret,uasin gishu,kg,1,77.832,77.832,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,eldoret,uasin gishu,kg,1,72.188,72.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,eldoret,uasin gishu,kg,1,71.914,71.914,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,eldoret,uasin gishu,kg,1,77.969,77.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,eldoret,uasin gishu,kg,1,77.969,77.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-11-01,2019,11,tomatoes,eldoret,uasin gishu,kg,1,81.484,81.484,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-12-01,2019,12,tomatoes,eldoret,uasin gishu,kg,1,83.047,83.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-01-01,2020,1,tomatoes,eldoret,uasin gishu,kg,1,75.781,75.781,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,eldoret,uasin gishu,kg,1,95.313,95.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-01-01,2021,1,tomatoes,eldoret,uasin gishu,kg,1,54.788,54.788,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-02-01,2021,2,tomatoes,eldoret,uasin gishu,kg,1,60.896,60.896,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-03-01,2021,3,tomatoes,eldoret,uasin gishu,kg,1,59.617,59.617,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-04-01,2021,4,tomatoes,eldoret,uasin gishu,kg,1,91.967,91.967,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-05-01,2021,5,tomatoes,eldoret,uasin gishu,kg,1,77.45,77.45,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-06-01,2021,6,tomatoes,eldoret,uasin gishu,kg,1,57.096,57.096,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-07-01,2021,7,tomatoes,eldoret,uasin gishu,kg,1,55.0,55.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-08-01,2021,8,tomatoes,eldoret,uasin gishu,kg,1,55.463,55.463,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-09-01,2021,9,tomatoes,eldoret,uasin gishu,kg,1,70.833,70.833,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-10-01,2021,10,tomatoes,eldoret,uasin gishu,kg,1,77.5,77.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-11-01,2021,11,tomatoes,eldoret,uasin gishu,kg,1,91.125,91.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-12-01,2021,12,tomatoes,eldoret,uasin gishu,kg,1,78.94,78.94,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-01-01,2022,1,tomatoes,eldoret,uasin gishu,kg,1,91.65,91.65,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-02-01,2022,2,tomatoes,eldoret,uasin gishu,kg,1,94.4,94.4,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-03-01,2022,3,tomatoes,eldoret,uasin gishu,kg,1,68.767,68.767,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-04-01,2022,4,tomatoes,eldoret,uasin gishu,kg,1,59.333,59.333,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-05-01,2022,5,tomatoes,eldoret,uasin gishu,kg,1,51.489,51.489,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-06-01,2022,6,tomatoes,eldoret,uasin gishu,kg,1,78.646,78.646,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2022-07-01,2022,7,tomatoes,eldoret,uasin gishu,kg,1,73.188,73.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-01-01,2023,1,tomatoes,eldoret,uasin gishu,kg,1,67.26,67.26,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-02-01,2023,2,tomatoes,eldoret,uasin gishu,kg,1,78.2,78.2,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-03-01,2023,3,tomatoes,eldoret,uasin gishu,kg,1,57.092,57.092,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-04-01,2023,4,tomatoes,eldoret,uasin gishu,kg,1,46.232,46.232,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-05-01,2023,5,tomatoes,eldoret,uasin gishu,kg,1,52.915,52.915,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-06-01,2023,6,tomatoes,eldoret,uasin gishu,kg,1,55.382,55.382,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-07-01,2023,7,tomatoes,eldoret,uasin gishu,kg,1,46.844,46.844,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-08-01,2023,8,tomatoes,eldoret,uasin gishu,kg,1,33.335,33.335,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-09-01,2023,9,tomatoes,eldoret,uasin gishu,kg,1,70.431,70.431,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-10-01,2023,10,tomatoes,eldoret,uasin gishu,kg,1,94.444,94.444,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-11-01,2023,11,tomatoes,eldoret,uasin gishu,kg,1,107.815,107.815,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-02-01,2024,2,tomatoes,eldoret,uasin gishu,kg,1,60.0,60.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-03-01,2024,3,tomatoes,eldoret,uasin gishu,kg,1,6.67,6.67,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-05-01,2024,5,tomatoes,eldoret,uasin gishu,kg,1,87.223,87.223,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-07-01,2024,7,tomatoes,eldoret,uasin gishu,kg,1,89.443,89.443,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-08-01,2024,8,tomatoes,eldoret,uasin gishu,kg,1,42.5,42.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-09-01,2024,9,tomatoes,eldoret,uasin gishu,kg,1,56.0,56.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-01-01,2012,1,tomatoes,embu,embu,kg,1,31.25,31.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-09-01,2012,9,tomatoes,embu,embu,kg,1,28.125,28.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-10-01,2012,10,tomatoes,embu,embu,kg,1,17.188,17.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,embu,embu,kg,1,41.406,41.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,embu,embu,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,embu,embu,kg,1,31.875,31.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,embu,embu,kg,1,42.969,42.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,embu,embu,kg,1,56.25,56.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,embu,embu,kg,1,58.594,58.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,embu,embu,kg,1,59.115,59.115,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,embu,embu,kg,1,45.313,45.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,embu,embu,kg,1,26.979,26.979,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,embu,embu,kg,1,18.49,18.49,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,embu,embu,kg,1,13.021,13.021,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,embu,embu,kg,1,21.875,21.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,embu,embu,kg,1,16.797,16.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,embu,embu,kg,1,15.625,15.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,embu,embu,kg,1,54.688,54.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,embu,embu,kg,1,42.344,42.344,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,embu,embu,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,embu,embu,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-05-01,2014,5,tomatoes,embu,embu,kg,1,41.016,41.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-06-01,2014,6,tomatoes,embu,embu,kg,1,21.875,21.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,embu,embu,kg,1,57.031,57.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,embu,embu,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,embu,embu,kg,1,51.563,51.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,embu,embu,kg,1,40.625,40.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-11-01,2014,11,tomatoes,embu,embu,kg,1,15.625,15.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-12-01,2014,12,tomatoes,embu,embu,kg,1,23.958,23.958,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-01-01,2015,1,tomatoes,embu,embu,kg,1,40.625,40.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-02-01,2015,2,tomatoes,embu,embu,kg,1,45.313,45.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-03-01,2015,3,tomatoes,embu,embu,kg,1,51.563,51.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-04-01,2015,4,tomatoes,embu,embu,kg,1,41.406,41.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-05-01,2015,5,tomatoes,embu,embu,kg,1,43.75,43.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-06-01,2015,6,tomatoes,embu,embu,kg,1,51.047,51.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-07-01,2015,7,tomatoes,embu,embu,kg,1,28.625,28.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-08-01,2015,8,tomatoes,embu,embu,kg,1,39.063,39.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-09-01,2015,9,tomatoes,embu,embu,kg,1,27.344,27.344,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-10-01,2015,10,tomatoes,embu,embu,kg,1,19.531,19.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-01-01,2016,1,tomatoes,embu,embu,kg,1,17.703,17.703,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-02-01,2016,2,tomatoes,embu,embu,kg,1,43.984,43.984,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,embu,embu,kg,1,43.75,43.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,embu,embu,kg,1,42.031,42.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,embu,embu,kg,1,48.953,48.953,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,embu,embu,kg,1,70.0,70.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,embu,embu,kg,1,38.75,38.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,embu,embu,kg,1,15.0,15.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,embu,embu,kg,1,19.844,19.844,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,embu,embu,kg,1,19.531,19.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,embu,embu,kg,1,19.531,19.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,embu,embu,kg,1,21.875,21.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,embu,embu,kg,1,32.813,32.813,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,embu,embu,kg,1,47.917,47.917,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,embu,embu,kg,1,80.0,80.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,embu,embu,kg,1,30.0,30.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,embu,embu,kg,1,25.0,25.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,embu,embu,kg,1,24.844,24.844,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,embu,embu,kg,1,60.0,60.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,embu,embu,kg,1,90.0,90.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,embu,embu,kg,1,55.0,55.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,embu,embu,kg,1,45.0,45.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,embu,embu,kg,1,50.0,50.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,embu,embu,kg,1,24.219,24.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,embu,embu,kg,1,47.5,47.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,embu,embu,kg,1,85.0,85.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,embu,embu,kg,1,109.844,109.844,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,embu,embu,kg,1,33.889,33.889,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,embu,embu,kg,1,50.0,50.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,embu,embu,kg,1,43.802,43.802,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,embu,embu,kg,1,35.0,35.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,embu,embu,kg,1,41.5,41.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,embu,embu,kg,1,41.5,41.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-11-01,2019,11,tomatoes,embu,embu,kg,1,40.0,40.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-12-01,2019,12,tomatoes,embu,embu,kg,1,47.891,47.891,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-01-01,2020,1,tomatoes,embu,embu,kg,1,60.0,60.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,embu,embu,kg,1,100.0,100.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-02-01,2023,2,tomatoes,embu,embu,kg,1,379.648,379.648,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-03-01,2023,3,tomatoes,embu,embu,kg,1,188.382,188.382,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-04-01,2023,4,tomatoes,embu,embu,kg,1,39.02,39.02,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-05-01,2023,5,tomatoes,embu,embu,kg,1,42.5,42.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-06-01,2023,6,tomatoes,embu,embu,kg,1,39.41,39.41,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-07-01,2023,7,tomatoes,embu,embu,kg,1,32.222,32.222,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-08-01,2023,8,tomatoes,embu,embu,kg,1,24.375,24.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-09-01,2023,9,tomatoes,embu,embu,kg,1,35.556,35.556,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-10-01,2023,10,tomatoes,embu,embu,kg,1,38.75,38.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-11-01,2023,11,tomatoes,embu,embu,kg,1,44.286,44.286,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2023-12-01,2023,12,tomatoes,embu,embu,kg,1,36.667,36.667,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-01-01,2024,1,tomatoes,embu,embu,kg,1,33.0,33.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-02-01,2024,2,tomatoes,embu,embu,kg,1,30.0,30.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2024-09-01,2024,9,tomatoes,embu,embu,kg,1,16.24,16.24,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-04-01,2012,4,tomatoes,kisii,kisii,kg,1,61.458,61.458,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-05-01,2012,5,tomatoes,kisii,kisii,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-06-01,2012,6,tomatoes,kisii,kisii,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-08-01,2012,8,tomatoes,kisii,kisii,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,kisii,kisii,kg,1,72.656,72.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,kisii,kisii,kg,1,67.383,67.383,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,kisii,kisii,kg,1,55.625,55.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,kisii,kisii,kg,1,62.891,62.891,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,kisii,kisii,kg,1,67.969,67.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,kisii,kisii,kg,1,103.32,103.32,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,kisii,kisii,kg,1,102.813,102.813,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,kisii,kisii,kg,1,80.469,80.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,kisii,kisii,kg,1,41.406,41.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,kisii,kisii,kg,1,46.875,46.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,kisii,kisii,kg,1,34.375,34.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,kisii,kisii,kg,1,48.438,48.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,kisii,kisii,kg,1,54.883,54.883,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,kisii,kisii,kg,1,50.781,50.781,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,kisii,kisii,kg,1,65.039,65.039,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,kisii,kisii,kg,1,74.219,74.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,kisii,kisii,kg,1,54.297,54.297,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,kisii,kisii,kg,1,74.219,74.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-05-01,2014,5,tomatoes,kisii,kisii,kg,1,83.333,83.333,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-06-01,2014,6,tomatoes,kisii,kisii,kg,1,58.594,58.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,kisii,kisii,kg,1,84.961,84.961,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,kisii,kisii,kg,1,113.672,113.672,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,kisii,kisii,kg,1,111.719,111.719,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,kisii,kisii,kg,1,87.109,87.109,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-11-01,2014,11,tomatoes,kisii,kisii,kg,1,58.919,58.919,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-12-01,2014,12,tomatoes,kisii,kisii,kg,1,65.104,65.104,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-01-01,2015,1,tomatoes,kisii,kisii,kg,1,69.092,69.092,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-02-01,2015,2,tomatoes,kisii,kisii,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-03-01,2015,3,tomatoes,kisii,kisii,kg,1,67.383,67.383,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-04-01,2015,4,tomatoes,kisii,kisii,kg,1,95.703,95.703,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-05-01,2015,5,tomatoes,kisii,kisii,kg,1,101.758,101.758,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-06-01,2015,6,tomatoes,kisii,kisii,kg,1,84.828,84.828,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-07-01,2015,7,tomatoes,kisii,kisii,kg,1,60.094,60.094,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-08-01,2015,8,tomatoes,kisii,kisii,kg,1,69.344,69.344,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-09-01,2015,9,tomatoes,kisii,kisii,kg,1,82.031,82.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-10-01,2015,10,tomatoes,kisii,kisii,kg,1,52.875,52.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-11-01,2015,11,tomatoes,kisii,kisii,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-12-01,2015,12,tomatoes,kisii,kisii,kg,1,111.406,111.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-01-01,2016,1,tomatoes,kisii,kisii,kg,1,79.422,79.422,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-02-01,2016,2,tomatoes,kisii,kisii,kg,1,81.375,81.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,kisii,kisii,kg,1,87.891,87.891,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,kisii,kisii,kg,1,92.773,92.773,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,kisii,kisii,kg,1,99.609,99.609,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,kisii,kisii,kg,1,134.766,134.766,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,kisii,kisii,kg,1,95.703,95.703,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,kisii,kisii,kg,1,64.844,64.844,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,kisii,kisii,kg,1,61.203,61.203,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,kisii,kisii,kg,1,55.339,55.339,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,kisii,kisii,kg,1,55.339,55.339,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,kisii,kisii,kg,1,71.297,71.297,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,kisii,kisii,kg,1,81.055,81.055,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,kisii,kisii,kg,1,99.805,99.805,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-03-01,2017,3,tomatoes,kisii,kisii,kg,1,104.063,104.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-04-01,2017,4,tomatoes,kisii,kisii,kg,1,104.063,104.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-05-01,2017,5,tomatoes,kisii,kisii,kg,1,104.063,104.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-06-01,2017,6,tomatoes,kisii,kisii,kg,1,104.063,104.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-07-01,2017,7,tomatoes,kisii,kisii,kg,1,108.659,108.659,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,kisii,kisii,kg,1,107.813,107.813,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,kisii,kisii,kg,1,122.396,122.396,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,kisii,kisii,kg,1,85.612,85.612,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,kisii,kisii,kg,1,79.102,79.102,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,kisii,kisii,kg,1,82.031,82.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,kisii,kisii,kg,1,177.292,177.292,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-06-01,2018,6,tomatoes,kisii,kisii,kg,1,176.432,176.432,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,kisii,kisii,kg,1,116.211,116.211,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,kisii,kisii,kg,1,94.531,94.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,kisii,kisii,kg,1,73.568,73.568,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,kisii,kisii,kg,1,107.396,107.396,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,kisii,kisii,kg,1,125.651,125.651,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,kisii,kisii,kg,1,143.906,143.906,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,kisii,kisii,kg,1,109.375,109.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,kisii,kisii,kg,1,114.909,114.909,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,kisii,kisii,kg,1,121.094,121.094,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,kisii,kisii,kg,1,120.313,120.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,kisii,kisii,kg,1,109.375,109.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,kisii,kisii,kg,1,87.5,87.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,kisii,kisii,kg,1,87.5,87.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-11-01,2019,11,tomatoes,kisii,kisii,kg,1,100.26,100.26,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-12-01,2019,12,tomatoes,kisii,kisii,kg,1,101.563,101.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-01-01,2020,1,tomatoes,kisii,kisii,kg,1,93.62,93.62,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,kisii,kisii,kg,1,116.667,116.667,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-12-01,2020,12,tomatoes,kisii,kisii,kg,1,62.729,62.729,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-01-01,2021,1,tomatoes,kisii,kisii,kg,1,43.535,43.535,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-01-01,2012,1,tomatoes,kisumu,kisumu,kg,1,68.594,68.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-02-01,2012,2,tomatoes,kisumu,kisumu,kg,1,83.281,83.281,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-03-01,2012,3,tomatoes,kisumu,kisumu,kg,1,58.125,58.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-04-01,2012,4,tomatoes,kisumu,kisumu,kg,1,48.73,48.73,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-05-01,2012,5,tomatoes,kisumu,kisumu,kg,1,60.875,60.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-06-01,2012,6,tomatoes,kisumu,kisumu,kg,1,68.75,68.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-07-01,2012,7,tomatoes,kisumu,kisumu,kg,1,46.094,46.094,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-08-01,2012,8,tomatoes,kisumu,kisumu,kg,1,53.281,53.281,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-09-01,2012,9,tomatoes,kisumu,kisumu,kg,1,50.234,50.234,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-10-01,2012,10,tomatoes,kisumu,kisumu,kg,1,49.688,49.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,kisumu,kisumu,kg,1,68.516,68.516,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,kisumu,kisumu,kg,1,65.723,65.723,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,kisumu,kisumu,kg,1,58.219,58.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,kisumu,kisumu,kg,1,56.016,56.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,kisumu,kisumu,kg,1,62.734,62.734,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,kisumu,kisumu,kg,1,70.555,70.555,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,kisumu,kisumu,kg,1,101.969,101.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,kisumu,kisumu,kg,1,66.406,66.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,kisumu,kisumu,kg,1,41.438,41.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,kisumu,kisumu,kg,1,44.648,44.648,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,kisumu,kisumu,kg,1,41.094,41.094,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,kisumu,kisumu,kg,1,50.391,50.391,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,kisumu,kisumu,kg,1,55.156,55.156,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,kisumu,kisumu,kg,1,43.997,43.997,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,kisumu,kisumu,kg,1,60.156,60.156,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,kisumu,kisumu,kg,1,70.703,70.703,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,kisumu,kisumu,kg,1,75.313,75.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,kisumu,kisumu,kg,1,79.004,79.004,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-05-01,2014,5,tomatoes,kisumu,kisumu,kg,1,86.641,86.641,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-06-01,2014,6,tomatoes,kisumu,kisumu,kg,1,65.285,65.285,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,kisumu,kisumu,kg,1,84.531,84.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,kisumu,kisumu,kg,1,114.922,114.922,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,kisumu,kisumu,kg,1,96.973,96.973,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,kisumu,kisumu,kg,1,66.147,66.147,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-11-01,2014,11,tomatoes,kisumu,kisumu,kg,1,55.469,55.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-12-01,2014,12,tomatoes,kisumu,kisumu,kg,1,75.195,75.195,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-01-01,2015,1,tomatoes,kisumu,kisumu,kg,1,65.859,65.859,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-02-01,2015,2,tomatoes,kisumu,kisumu,kg,1,71.875,71.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-03-01,2015,3,tomatoes,kisumu,kisumu,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-04-01,2015,4,tomatoes,kisumu,kisumu,kg,1,74.219,74.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-05-01,2015,5,tomatoes,kisumu,kisumu,kg,1,92.891,92.891,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-06-01,2015,6,tomatoes,kisumu,kisumu,kg,1,75.781,75.781,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-07-01,2015,7,tomatoes,kisumu,kisumu,kg,1,50.313,50.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-08-01,2015,8,tomatoes,kisumu,kisumu,kg,1,71.875,71.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-09-01,2015,9,tomatoes,kisumu,kisumu,kg,1,76.953,76.953,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-10-01,2015,10,tomatoes,kisumu,kisumu,kg,1,66.047,66.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-11-01,2015,11,tomatoes,kisumu,kisumu,kg,1,82.516,82.516,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-12-01,2015,12,tomatoes,kisumu,kisumu,kg,1,111.484,111.484,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-01-01,2016,1,tomatoes,kisumu,kisumu,kg,1,96.484,96.484,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-02-01,2016,2,tomatoes,kisumu,kisumu,kg,1,97.266,97.266,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,kisumu,kisumu,kg,1,79.219,79.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,kisumu,kisumu,kg,1,100.0,100.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,kisumu,kisumu,kg,1,97.469,97.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,kisumu,kisumu,kg,1,120.703,120.703,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,kisumu,kisumu,kg,1,90.527,90.527,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,kisumu,kisumu,kg,1,64.688,64.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,kisumu,kisumu,kg,1,52.734,52.734,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,kisumu,kisumu,kg,1,54.316,54.316,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,kisumu,kisumu,kg,1,54.316,54.316,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,kisumu,kisumu,kg,1,53.0,53.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,kisumu,kisumu,kg,1,77.969,77.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,kisumu,kisumu,kg,1,87.793,87.793,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-03-01,2017,3,tomatoes,kisumu,kisumu,kg,1,82.188,82.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-04-01,2017,4,tomatoes,kisumu,kisumu,kg,1,82.188,82.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-05-01,2017,5,tomatoes,kisumu,kisumu,kg,1,82.188,82.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-06-01,2017,6,tomatoes,kisumu,kisumu,kg,1,96.328,96.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-07-01,2017,7,tomatoes,kisumu,kisumu,kg,1,99.609,99.609,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,kisumu,kisumu,kg,1,132.688,132.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,kisumu,kisumu,kg,1,69.661,69.661,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,kisumu,kisumu,kg,1,69.922,69.922,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,kisumu,kisumu,kg,1,67.969,67.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,kisumu,kisumu,kg,1,70.833,70.833,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,kisumu,kisumu,kg,1,111.172,111.172,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-06-01,2018,6,tomatoes,kisumu,kisumu,kg,1,125.684,125.684,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,kisumu,kisumu,kg,1,89.453,89.453,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,kisumu,kisumu,kg,1,87.604,87.604,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,kisumu,kisumu,kg,1,87.891,87.891,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,kisumu,kisumu,kg,1,85.609,85.609,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,kisumu,kisumu,kg,1,111.23,111.23,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,kisumu,kisumu,kg,1,129.063,129.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,kisumu,kisumu,kg,1,130.84,130.84,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,kisumu,kisumu,kg,1,89.063,89.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,kisumu,kisumu,kg,1,113.086,113.086,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,kisumu,kisumu,kg,1,120.313,120.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,kisumu,kisumu,kg,1,117.188,117.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,kisumu,kisumu,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,kisumu,kisumu,kg,1,70.313,70.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,kisumu,kisumu,kg,1,85.938,85.938,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-12-01,2020,12,tomatoes,kisumu,kisumu,kg,1,32.7,32.7,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-01-01,2021,1,tomatoes,kisumu,kisumu,kg,1,57.5,57.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-01-01,2012,1,tomatoes,mombasa,mombasa,kg,1,50.371,50.371,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-02-01,2012,2,tomatoes,mombasa,mombasa,kg,1,61.055,61.055,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-03-01,2012,3,tomatoes,mombasa,mombasa,kg,1,46.094,46.094,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-04-01,2012,4,tomatoes,mombasa,mombasa,kg,1,42.314,42.314,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-05-01,2012,5,tomatoes,mombasa,mombasa,kg,1,42.547,42.547,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-06-01,2012,6,tomatoes,mombasa,mombasa,kg,1,44.492,44.492,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-07-01,2012,7,tomatoes,mombasa,mombasa,kg,1,35.508,35.508,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-08-01,2012,8,tomatoes,mombasa,mombasa,kg,1,34.424,34.424,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-09-01,2012,9,tomatoes,mombasa,mombasa,kg,1,24.973,24.973,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-10-01,2012,10,tomatoes,mombasa,mombasa,kg,1,41.328,41.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,mombasa,mombasa,kg,1,64.016,64.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,mombasa,mombasa,kg,1,72.661,72.661,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,mombasa,mombasa,kg,1,32.508,32.508,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,mombasa,mombasa,kg,1,33.445,33.445,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,mombasa,mombasa,kg,1,68.475,68.475,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,mombasa,mombasa,kg,1,106.094,106.094,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,mombasa,mombasa,kg,1,124.956,124.956,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,mombasa,mombasa,kg,1,88.969,88.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,mombasa,mombasa,kg,1,68.563,68.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,mombasa,mombasa,kg,1,68.516,68.516,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,mombasa,mombasa,kg,1,70.625,70.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,mombasa,mombasa,kg,1,88.25,88.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,mombasa,mombasa,kg,1,94.375,94.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,mombasa,mombasa,kg,1,82.474,82.474,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,mombasa,mombasa,kg,1,83.781,83.781,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,mombasa,mombasa,kg,1,90.625,90.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,mombasa,mombasa,kg,1,93.229,93.229,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,mombasa,mombasa,kg,1,92.37,92.37,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-05-01,2014,5,tomatoes,mombasa,mombasa,kg,1,84.609,84.609,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-06-01,2014,6,tomatoes,mombasa,mombasa,kg,1,71.484,71.484,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,mombasa,mombasa,kg,1,86.625,86.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,mombasa,mombasa,kg,1,90.547,90.547,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,mombasa,mombasa,kg,1,56.875,56.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,mombasa,mombasa,kg,1,68.297,68.297,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-11-01,2014,11,tomatoes,mombasa,mombasa,kg,1,62.5,62.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-12-01,2014,12,tomatoes,mombasa,mombasa,kg,1,60.033,60.033,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-01-01,2015,1,tomatoes,mombasa,mombasa,kg,1,74.0,74.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-02-01,2015,2,tomatoes,mombasa,mombasa,kg,1,106.25,106.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-03-01,2015,3,tomatoes,mombasa,mombasa,kg,1,97.5,97.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-04-01,2015,4,tomatoes,mombasa,mombasa,kg,1,95.664,95.664,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-05-01,2015,5,tomatoes,mombasa,mombasa,kg,1,98.047,98.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-06-01,2015,6,tomatoes,mombasa,mombasa,kg,1,99.656,99.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-07-01,2015,7,tomatoes,mombasa,mombasa,kg,1,80.688,80.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-08-01,2015,8,tomatoes,mombasa,mombasa,kg,1,88.75,88.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-09-01,2015,9,tomatoes,mombasa,mombasa,kg,1,85.664,85.664,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-10-01,2015,10,tomatoes,mombasa,mombasa,kg,1,77.797,77.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-11-01,2015,11,tomatoes,mombasa,mombasa,kg,1,112.672,112.672,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-12-01,2015,12,tomatoes,mombasa,mombasa,kg,1,165.078,165.078,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-01-01,2016,1,tomatoes,mombasa,mombasa,kg,1,141.172,141.172,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-02-01,2016,2,tomatoes,mombasa,mombasa,kg,1,146.875,146.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,mombasa,mombasa,kg,1,121.181,121.181,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,mombasa,mombasa,kg,1,131.563,131.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,mombasa,mombasa,kg,1,124.344,124.344,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,mombasa,mombasa,kg,1,113.203,113.203,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,mombasa,mombasa,kg,1,83.979,83.979,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,mombasa,mombasa,kg,1,59.604,59.604,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,mombasa,mombasa,kg,1,55.875,55.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,mombasa,mombasa,kg,1,60.371,60.371,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,mombasa,mombasa,kg,1,60.371,60.371,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,mombasa,mombasa,kg,1,53.813,53.813,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,mombasa,mombasa,kg,1,54.199,54.199,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,mombasa,mombasa,kg,1,88.262,88.262,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-03-01,2017,3,tomatoes,mombasa,mombasa,kg,1,92.469,92.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-04-01,2017,4,tomatoes,mombasa,mombasa,kg,1,92.469,92.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-05-01,2017,5,tomatoes,mombasa,mombasa,kg,1,92.469,92.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-06-01,2017,6,tomatoes,mombasa,mombasa,kg,1,91.797,91.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-07-01,2017,7,tomatoes,mombasa,mombasa,kg,1,85.391,85.391,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,mombasa,mombasa,kg,1,98.188,98.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,mombasa,mombasa,kg,1,63.594,63.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,mombasa,mombasa,kg,1,60.625,60.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,mombasa,mombasa,kg,1,67.324,67.324,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,mombasa,mombasa,kg,1,68.408,68.408,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,mombasa,mombasa,kg,1,113.531,113.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-06-01,2018,6,tomatoes,mombasa,mombasa,kg,1,112.148,112.148,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,mombasa,mombasa,kg,1,67.188,67.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,mombasa,mombasa,kg,1,64.141,64.141,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,mombasa,mombasa,kg,1,39.531,39.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,mombasa,mombasa,kg,1,64.629,64.629,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,mombasa,mombasa,kg,1,104.727,104.727,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,mombasa,mombasa,kg,1,93.563,93.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,mombasa,mombasa,kg,1,104.98,104.98,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,mombasa,mombasa,kg,1,82.781,82.781,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,mombasa,mombasa,kg,1,94.141,94.141,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,mombasa,mombasa,kg,1,62.917,62.917,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,mombasa,mombasa,kg,1,55.742,55.742,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,mombasa,mombasa,kg,1,54.688,54.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,mombasa,mombasa,kg,1,54.688,54.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-01-01,2020,1,tomatoes,mombasa,mombasa,kg,1,87.102,87.102,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,mombasa,mombasa,kg,1,99.791,99.791,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-01-01,2012,1,tomatoes,nairobi,nairobi city,kg,1,80.117,80.117,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-02-01,2012,2,tomatoes,nairobi,nairobi city,kg,1,73.438,73.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-03-01,2012,3,tomatoes,nairobi,nairobi city,kg,1,63.828,63.828,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-04-01,2012,4,tomatoes,nairobi,nairobi city,kg,1,47.012,47.012,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-05-01,2012,5,tomatoes,nairobi,nairobi city,kg,1,61.578,61.578,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-06-01,2012,6,tomatoes,nairobi,nairobi city,kg,1,72.031,72.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-07-01,2012,7,tomatoes,nairobi,nairobi city,kg,1,49.922,49.922,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-08-01,2012,8,tomatoes,nairobi,nairobi city,kg,1,38.535,38.535,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-09-01,2012,9,tomatoes,nairobi,nairobi city,kg,1,48.945,48.945,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-10-01,2012,10,tomatoes,nairobi,nairobi city,kg,1,49.219,49.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,nairobi,nairobi city,kg,1,69.531,69.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,nairobi,nairobi city,kg,1,70.091,70.091,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,nairobi,nairobi city,kg,1,64.016,64.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,nairobi,nairobi city,kg,1,67.031,67.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,nairobi,nairobi city,kg,1,73.75,73.75,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,nairobi,nairobi city,kg,1,104.57,104.57,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,nairobi,nairobi city,kg,1,120.969,120.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,nairobi,nairobi city,kg,1,83.359,83.359,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,nairobi,nairobi city,kg,1,39.5,39.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,nairobi,nairobi city,kg,1,44.121,44.121,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,nairobi,nairobi city,kg,1,38.672,38.672,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,nairobi,nairobi city,kg,1,50.063,50.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,nairobi,nairobi city,kg,1,56.563,56.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,nairobi,nairobi city,kg,1,59.01,59.01,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,nairobi,nairobi city,kg,1,72.469,72.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,nairobi,nairobi city,kg,1,74.219,74.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,nairobi,nairobi city,kg,1,83.438,83.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,nairobi,nairobi city,kg,1,85.82,85.82,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-05-01,2014,5,tomatoes,nairobi,nairobi city,kg,1,86.328,86.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-06-01,2014,6,tomatoes,nairobi,nairobi city,kg,1,79.297,79.297,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,nairobi,nairobi city,kg,1,83.266,83.266,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,nairobi,nairobi city,kg,1,95.391,95.391,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,nairobi,nairobi city,kg,1,65.477,65.477,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,nairobi,nairobi city,kg,1,72.156,72.156,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-11-01,2014,11,tomatoes,nairobi,nairobi city,kg,1,63.672,63.672,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-12-01,2014,12,tomatoes,nairobi,nairobi city,kg,1,61.855,61.855,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-01-01,2015,1,tomatoes,nairobi,nairobi city,kg,1,76.297,76.297,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-02-01,2015,2,tomatoes,nairobi,nairobi city,kg,1,88.906,88.906,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-03-01,2015,3,tomatoes,nairobi,nairobi city,kg,1,88.984,88.984,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-04-01,2015,4,tomatoes,nairobi,nairobi city,kg,1,95.039,95.039,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-05-01,2015,5,tomatoes,nairobi,nairobi city,kg,1,95.313,95.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-06-01,2015,6,tomatoes,nairobi,nairobi city,kg,1,91.016,91.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-07-01,2015,7,tomatoes,nairobi,nairobi city,kg,1,66.172,66.172,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-08-01,2015,8,tomatoes,nairobi,nairobi city,kg,1,77.344,77.344,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-09-01,2015,9,tomatoes,nairobi,nairobi city,kg,1,78.125,78.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-10-01,2015,10,tomatoes,nairobi,nairobi city,kg,1,62.875,62.875,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-11-01,2015,11,tomatoes,nairobi,nairobi city,kg,1,75.625,75.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-12-01,2015,12,tomatoes,nairobi,nairobi city,kg,1,106.328,106.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-01-01,2016,1,tomatoes,nairobi,nairobi city,kg,1,88.047,88.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-02-01,2016,2,tomatoes,nairobi,nairobi city,kg,1,81.016,81.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,nairobi,nairobi city,kg,1,89.063,89.063,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,nairobi,nairobi city,kg,1,89.469,89.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,nairobi,nairobi city,kg,1,86.969,86.969,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,nairobi,nairobi city,kg,1,129.297,129.297,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,nairobi,nairobi city,kg,1,76.367,76.367,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,nairobi,nairobi city,kg,1,61.438,61.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,nairobi,nairobi city,kg,1,63.125,63.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,nairobi,nairobi city,kg,1,59.141,59.141,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,nairobi,nairobi city,kg,1,59.141,59.141,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,nairobi,nairobi city,kg,1,58.453,58.453,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,nairobi,nairobi city,kg,1,63.578,63.578,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,nairobi,nairobi city,kg,1,77.98,77.98,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-03-01,2017,3,tomatoes,nairobi,nairobi city,kg,1,82.05,82.05,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-04-01,2017,4,tomatoes,nairobi,nairobi city,kg,1,82.05,82.05,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-05-01,2017,5,tomatoes,nairobi,nairobi city,kg,1,82.05,82.05,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-06-01,2017,6,tomatoes,nairobi,nairobi city,kg,1,86.797,86.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-07-01,2017,7,tomatoes,nairobi,nairobi city,kg,1,79.219,79.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,nairobi,nairobi city,kg,1,85.175,85.175,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,nairobi,nairobi city,kg,1,78.9,78.9,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,nairobi,nairobi city,kg,1,79.531,79.531,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,nairobi,nairobi city,kg,1,74.93,74.93,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,nairobi,nairobi city,kg,1,78.09,78.09,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,nairobi,nairobi city,kg,1,100.688,100.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-06-01,2018,6,tomatoes,nairobi,nairobi city,kg,1,110.352,110.352,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,nairobi,nairobi city,kg,1,87.109,87.109,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,nairobi,nairobi city,kg,1,78.103,78.103,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,nairobi,nairobi city,kg,1,77.563,77.563,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,nairobi,nairobi city,kg,1,70.375,70.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,nairobi,nairobi city,kg,1,75.102,75.102,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,nairobi,nairobi city,kg,1,85.938,85.938,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,nairobi,nairobi city,kg,1,96.523,96.523,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,nairobi,nairobi city,kg,1,84.747,84.747,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,nairobi,nairobi city,kg,1,93.555,93.555,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,nairobi,nairobi city,kg,1,85.313,85.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,nairobi,nairobi city,kg,1,61.914,61.914,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,nairobi,nairobi city,kg,1,70.25,70.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,nairobi,nairobi city,kg,1,70.25,70.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-11-01,2019,11,tomatoes,nairobi,nairobi city,kg,1,90.0,90.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-12-01,2019,12,tomatoes,nairobi,nairobi city,kg,1,89.188,89.188,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-01-01,2020,1,tomatoes,nairobi,nairobi city,kg,1,88.625,88.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,nairobi,nairobi city,kg,1,97.109,97.109,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-08-01,2020,8,tomatoes,nairobi,nairobi city,kg,1,53.516,53.516,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-10-01,2020,10,tomatoes,nairobi,nairobi city,kg,1,52.656,52.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-11-01,2020,11,tomatoes,nairobi,nairobi city,kg,1,45.667,45.667,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-12-01,2020,12,tomatoes,nairobi,nairobi city,kg,1,29.452,29.452,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-01-01,2021,1,tomatoes,nairobi,nairobi city,kg,1,61.225,61.225,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-01-01,2012,1,tomatoes,nakuru,nakuru,kg,1,61.836,61.836,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-02-01,2012,2,tomatoes,nakuru,nakuru,kg,1,54.453,54.453,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-03-01,2012,3,tomatoes,nakuru,nakuru,kg,1,49.297,49.297,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-04-01,2012,4,tomatoes,nakuru,nakuru,kg,1,39.434,39.434,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-05-01,2012,5,tomatoes,nakuru,nakuru,kg,1,46.0,46.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-06-01,2012,6,tomatoes,nakuru,nakuru,kg,1,59.922,59.922,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-07-01,2012,7,tomatoes,nakuru,nakuru,kg,1,35.547,35.547,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-08-01,2012,8,tomatoes,nakuru,nakuru,kg,1,38.359,38.359,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-09-01,2012,9,tomatoes,nakuru,nakuru,kg,1,41.328,41.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-10-01,2012,10,tomatoes,nakuru,nakuru,kg,1,46.641,46.641,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-11-01,2012,11,tomatoes,nakuru,nakuru,kg,1,67.813,67.813,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2012-12-01,2012,12,tomatoes,nakuru,nakuru,kg,1,58.939,58.939,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-01-01,2013,1,tomatoes,nakuru,nakuru,kg,1,50.984,50.984,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-02-01,2013,2,tomatoes,nakuru,nakuru,kg,1,43.828,43.828,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-03-01,2013,3,tomatoes,nakuru,nakuru,kg,1,48.484,48.484,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-04-01,2013,4,tomatoes,nakuru,nakuru,kg,1,93.262,93.262,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-05-01,2013,5,tomatoes,nakuru,nakuru,kg,1,102.656,102.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-06-01,2013,6,tomatoes,nakuru,nakuru,kg,1,60.859,60.859,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-07-01,2013,7,tomatoes,nakuru,nakuru,kg,1,36.313,36.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-08-01,2013,8,tomatoes,nakuru,nakuru,kg,1,48.066,48.066,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-09-01,2013,9,tomatoes,nakuru,nakuru,kg,1,43.906,43.906,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-10-01,2013,10,tomatoes,nakuru,nakuru,kg,1,47.281,47.281,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-11-01,2013,11,tomatoes,nakuru,nakuru,kg,1,56.25,56.25,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2013-12-01,2013,12,tomatoes,nakuru,nakuru,kg,1,23.438,23.438,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-01-01,2014,1,tomatoes,nakuru,nakuru,kg,1,40.625,40.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-02-01,2014,2,tomatoes,nakuru,nakuru,kg,1,57.031,57.031,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-03-01,2014,3,tomatoes,nakuru,nakuru,kg,1,51.432,51.432,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-04-01,2014,4,tomatoes,nakuru,nakuru,kg,1,51.432,51.432,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-07-01,2014,7,tomatoes,nakuru,nakuru,kg,1,73.047,73.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-08-01,2014,8,tomatoes,nakuru,nakuru,kg,1,87.109,87.109,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-09-01,2014,9,tomatoes,nakuru,nakuru,kg,1,71.181,71.181,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-10-01,2014,10,tomatoes,nakuru,nakuru,kg,1,55.51,55.51,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-11-01,2014,11,tomatoes,nakuru,nakuru,kg,1,43.047,43.047,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2014-12-01,2014,12,tomatoes,nakuru,nakuru,kg,1,45.026,45.026,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-01-01,2015,1,tomatoes,nakuru,nakuru,kg,1,55.625,55.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-02-01,2015,2,tomatoes,nakuru,nakuru,kg,1,54.688,54.688,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-03-01,2015,3,tomatoes,nakuru,nakuru,kg,1,61.328,61.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-04-01,2015,4,tomatoes,nakuru,nakuru,kg,1,60.156,60.156,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-05-01,2015,5,tomatoes,nakuru,nakuru,kg,1,86.328,86.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-06-01,2015,6,tomatoes,nakuru,nakuru,kg,1,71.094,71.094,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-07-01,2015,7,tomatoes,nakuru,nakuru,kg,1,58.125,58.125,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-08-01,2015,8,tomatoes,nakuru,nakuru,kg,1,68.203,68.203,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-09-01,2015,9,tomatoes,nakuru,nakuru,kg,1,65.576,65.576,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-10-01,2015,10,tomatoes,nakuru,nakuru,kg,1,48.016,48.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-11-01,2015,11,tomatoes,nakuru,nakuru,kg,1,58.797,58.797,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2015-12-01,2015,12,tomatoes,nakuru,nakuru,kg,1,75.234,75.234,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-01-01,2016,1,tomatoes,nakuru,nakuru,kg,1,55.859,55.859,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-02-01,2016,2,tomatoes,nakuru,nakuru,kg,1,65.625,65.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-03-01,2016,3,tomatoes,nakuru,nakuru,kg,1,57.656,57.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-04-01,2016,4,tomatoes,nakuru,nakuru,kg,1,66.406,66.406,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-05-01,2016,5,tomatoes,nakuru,nakuru,kg,1,80.469,80.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-06-01,2016,6,tomatoes,nakuru,nakuru,kg,1,101.656,101.656,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-07-01,2016,7,tomatoes,nakuru,nakuru,kg,1,59.473,59.473,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-08-01,2016,8,tomatoes,nakuru,nakuru,kg,1,37.5,37.5,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-09-01,2016,9,tomatoes,nakuru,nakuru,kg,1,30.0,30.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-10-01,2016,10,tomatoes,nakuru,nakuru,kg,1,40.352,40.352,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-11-01,2016,11,tomatoes,nakuru,nakuru,kg,1,40.352,40.352,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2016-12-01,2016,12,tomatoes,nakuru,nakuru,kg,1,33.984,33.984,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-01-01,2017,1,tomatoes,nakuru,nakuru,kg,1,51.484,51.484,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-02-01,2017,2,tomatoes,nakuru,nakuru,kg,1,56.445,56.445,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-03-01,2017,3,tomatoes,nakuru,nakuru,kg,1,60.313,60.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-04-01,2017,4,tomatoes,nakuru,nakuru,kg,1,60.313,60.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-05-01,2017,5,tomatoes,nakuru,nakuru,kg,1,60.313,60.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-06-01,2017,6,tomatoes,nakuru,nakuru,kg,1,60.313,60.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-07-01,2017,7,tomatoes,nakuru,nakuru,kg,1,53.594,53.594,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2017-08-01,2017,8,tomatoes,nakuru,nakuru,kg,1,73.313,73.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-01-01,2018,1,tomatoes,nakuru,nakuru,kg,1,64.811,64.811,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-02-01,2018,2,tomatoes,nakuru,nakuru,kg,1,41.016,41.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-03-01,2018,3,tomatoes,nakuru,nakuru,kg,1,46.289,46.289,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-04-01,2018,4,tomatoes,nakuru,nakuru,kg,1,51.211,51.211,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-05-01,2018,5,tomatoes,nakuru,nakuru,kg,1,94.219,94.219,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-06-01,2018,6,tomatoes,nakuru,nakuru,kg,1,107.324,107.324,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-07-01,2018,7,tomatoes,nakuru,nakuru,kg,1,86.328,86.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-08-01,2018,8,tomatoes,nakuru,nakuru,kg,1,59.766,59.766,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2018-09-01,2018,9,tomatoes,nakuru,nakuru,kg,1,47.266,47.266,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-01-01,2019,1,tomatoes,nakuru,nakuru,kg,1,68.313,68.313,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-02-01,2019,2,tomatoes,nakuru,nakuru,kg,1,76.23,76.23,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-03-01,2019,3,tomatoes,nakuru,nakuru,kg,1,85.0,85.0,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-04-01,2019,4,tomatoes,nakuru,nakuru,kg,1,84.082,84.082,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-05-01,2019,5,tomatoes,nakuru,nakuru,kg,1,64.328,64.328,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-06-01,2019,6,tomatoes,nakuru,nakuru,kg,1,98.177,98.177,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-07-01,2019,7,tomatoes,nakuru,nakuru,kg,1,75.625,75.625,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-08-01,2019,8,tomatoes,nakuru,nakuru,kg,1,57.813,57.813,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-09-01,2019,9,tomatoes,nakuru,nakuru,kg,1,79.375,79.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-10-01,2019,10,tomatoes,nakuru,nakuru,kg,1,79.375,79.375,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-11-01,2019,11,tomatoes,nakuru,nakuru,kg,1,80.469,80.469,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2019-12-01,2019,12,tomatoes,nakuru,nakuru,kg,1,91.016,91.016,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-01-01,2020,1,tomatoes,nakuru,nakuru,kg,1,69.857,69.857,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-02-01,2020,2,tomatoes,nakuru,nakuru,kg,1,83.333,83.333,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-08-01,2020,8,tomatoes,nakuru,nakuru,kg,1,39.648,39.648,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-10-01,2020,10,tomatoes,nakuru,nakuru,kg,1,32.487,32.487,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-11-01,2020,11,tomatoes,nakuru,nakuru,kg,1,26.91,26.91,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2020-12-01,2020,12,tomatoes,nakuru,nakuru,kg,1,32.234,32.234,KNBS/NIPFN KAMIS monthly wholesale price workbook
+2021-01-01,2021,1,tomatoes,nakuru,nakuru,kg,1,42.5,42.5,KNBS/NIPFN KAMIS monthly wholesale price workbook

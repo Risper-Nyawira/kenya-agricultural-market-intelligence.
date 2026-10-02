@@ -1,0 +1,17 @@
+market,county,observations,mean_kes_per_kg,median_kes_per_kg,min_kes_per_kg,max_kes_per_kg,standard_deviation,coefficient_of_variation,summary_version
+busia,busia,110,64.4467,55.882,34.375,583.33,52.0865,0.8082,all_observations
+eldoret,uasin gishu,127,74.6574,74.375,6.67,174.023,23.0966,0.3094,all_observations
+embu,embu,90,46.6823,41.211,13.021,379.648,43.1091,0.9235,all_observations
+kisii,kisii,87,85.5525,82.031,34.375,177.292,27.7047,0.3238,all_observations
+kisumu,kisumu,90,77.309,73.047,32.7,132.688,22.9221,0.2965,all_observations
+mombasa,mombasa,89,79.4787,82.474,24.973,165.078,27.2237,0.3425,all_observations
+nairobi,nairobi city,96,74.9831,76.8555,29.452,129.297,17.8925,0.2386,all_observations
+nakuru,nakuru,94,59.6163,57.969,23.438,107.324,18.3826,0.3083,all_observations
+busia,busia,109,59.6863,55.122,34.375,97.665,14.9096,0.2498,excludes_flagged_outliers
+eldoret,uasin gishu,127,74.6574,74.375,6.67,174.023,23.0966,0.3094,excludes_flagged_outliers
+embu,embu,88,41.2884,40.8205,13.021,109.844,19.146,0.4637,excludes_flagged_outliers
+kisii,kisii,87,85.5525,82.031,34.375,177.292,27.7047,0.3238,excludes_flagged_outliers
+kisumu,kisumu,90,77.309,73.047,32.7,132.688,22.9221,0.2965,excludes_flagged_outliers
+mombasa,mombasa,89,79.4787,82.474,24.973,165.078,27.2237,0.3425,excludes_flagged_outliers
+nairobi,nairobi city,96,74.9831,76.8555,29.452,129.297,17.8925,0.2386,excludes_flagged_outliers
+nakuru,nakuru,94,59.6163,57.969,23.438,107.324,18.3826,0.3083,excludes_flagged_outliers

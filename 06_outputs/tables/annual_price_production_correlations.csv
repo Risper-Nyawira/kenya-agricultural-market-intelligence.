@@ -1,0 +1,5 @@
+,selected_market_mean_kes_per_kg,production_tonnes,area_harvested_ha,yield_kg_per_ha
+selected_market_mean_kes_per_kg,1.0,-0.012,-0.104,0.08
+production_tonnes,-0.012,1.0,0.877,0.887
+area_harvested_ha,-0.104,0.877,1.0,0.564
+yield_kg_per_ha,0.08,0.887,0.564,1.0

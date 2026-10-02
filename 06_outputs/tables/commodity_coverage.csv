@@ -1,0 +1,436 @@
+commodity,observations,markets,months,first_date,last_date
+tomatoes,5625,300,135,2012-01-01,2024-09-01
+cabbages,5458,298,135,2012-01-01,2024-09-01
+kales/sukuma wiki,4862,280,135,2012-01-01,2024-09-01
+irish potato (white),4566,278,135,2012-01-01,2024-09-01
+"onions, dry",4593,270,124,2012-01-01,2023-12-01
+beans rosecoco (nyayo),4535,268,135,2012-01-01,2024-09-01
+"maize, grain, dry",4573,267,124,2012-01-01,2023-12-01
+oranges,4228,257,135,2012-01-01,2024-09-01
+irish potato (red),3089,256,135,2012-01-01,2024-09-01
+banana (cooking/plantain),3865,252,124,2012-01-01,2023-12-01
+sweet potato,3862,251,135,2012-01-01,2024-09-01
+carrots,4247,241,135,2012-01-01,2024-09-01
+green maize,3441,238,135,2012-01-01,2024-09-01
+water melon,2701,234,41,2020-12-01,2024-09-01
+capsicums,3381,232,135,2012-01-01,2024-09-01
+green grams,3250,229,124,2012-01-01,2024-09-01
+banana (ripe),3008,228,124,2012-01-01,2023-12-01
+avocado,3020,226,128,2012-01-01,2024-09-01
+pineapples,3242,224,135,2012-01-01,2024-09-01
+spinach,2461,223,41,2020-12-01,2024-09-01
+finger millet,3493,221,135,2012-01-01,2024-09-01
+sorghum (red),2392,217,42,2020-11-01,2024-09-01
+mangoes,1653,214,32,2020-11-01,2024-09-01
+beans (mwitemania),2989,211,135,2012-01-01,2024-09-01
+lemons,2841,203,135,2012-01-01,2024-09-01
+black nightshade (managu/ osuga),2305,202,42,2020-11-01,2024-09-01
+beans (yellow bean),1800,202,23,2020-11-01,2023-02-01
+"onions, spring",2572,198,124,2012-01-01,2023-12-01
+beans (mwezi moja),2162,197,135,2012-01-01,2024-09-01
+cowpeas,3085,195,135,2012-01-01,2024-09-01
+coriander (dhania),1949,192,42,2020-11-01,2024-09-01
+pawpaw,2503,189,133,2012-01-01,2024-09-01
+groundnuts,2568,188,124,2012-01-01,2024-09-01
+cassava fresh,2240,185,135,2012-01-01,2024-09-01
+garlic,1876,184,42,2020-11-01,2024-09-01
+eggs,2685,183,123,2012-01-01,2024-09-01
+dry onions,1615,180,20,2023-02-01,2024-09-01
+beans red haricot (wairimu),2014,178,42,2020-11-01,2024-09-01
+amaranthus (terere),1698,178,42,2020-11-01,2024-09-01
+dry maize,1574,178,20,2023-02-01,2024-09-01
+ginger,1791,175,42,2020-11-01,2024-09-01
+rice,1568,175,30,2020-12-01,2024-09-01
+arrow root,1967,173,42,2020-11-01,2024-09-01
+chicken,1455,168,33,2020-12-01,2024-09-01
+cowpea leaves (kunde),1531,165,42,2020-11-01,2024-09-01
+goat,1420,160,34,2020-12-01,2024-09-01
+beans (yellow-green),1208,160,20,2023-02-01,2024-09-01
+passion fruits,2093,157,135,2012-01-01,2024-09-01
+butternuts,1382,155,42,2020-11-01,2024-09-01
+beans (dolichos-njahi),2452,154,135,2012-01-01,2024-09-01
+chillies,2022,154,135,2012-01-01,2024-09-01
+sheep,1332,154,35,2020-12-01,2024-09-01
+"peas, fresh",1994,148,124,2012-01-01,2023-12-01
+banana (cooking),1171,147,20,2023-02-01,2024-09-01
+cattle,1492,146,37,2021-01-01,2024-09-01
+mangoes (local),1415,144,107,2012-01-01,2021-12-01
+chicken (indigenous),682,144,12,2021-01-01,2021-12-01
+wheat,1341,143,133,2012-01-01,2024-09-01
+cucumber,1582,141,135,2012-01-01,2024-09-01
+pumpkin,1108,139,41,2020-12-01,2024-09-01
+beans (canadian wonder),1623,136,135,2012-01-01,2024-09-01
+spider flower (saga),1288,136,41,2020-12-01,2024-09-01
+sorghum (white),919,134,42,2020-11-01,2024-09-01
+banana (ripening),845,129,20,2023-02-01,2024-09-01
+egg plant (brinjals),1773,125,135,2012-01-01,2024-09-01
+avocado (local),414,125,8,2021-05-01,2021-12-01
+cassava chips (dry),1026,121,40,2020-12-01,2024-09-01
+pumpkin leaves,911,121,41,2020-12-01,2024-09-01
+green grams (local-special),508,121,12,2021-01-01,2021-12-01
+green grams (hybrid/ polished),506,121,12,2021-01-01,2021-12-01
+mangoes (improved),388,121,8,2021-05-01,2021-12-01
+pigeon peas,1113,119,42,2020-11-01,2024-09-01
+rice (pishori),431,117,8,2021-05-01,2021-12-01
+eggs (exotic/grade),547,116,12,2021-01-01,2021-12-01
+sheep (blackhead persian),414,116,12,2021-01-01,2021-12-01
+omena,878,112,30,2020-12-01,2024-09-01
+groundnuts (large brown),516,111,12,2021-01-01,2021-12-01
+limes,853,109,135,2012-01-01,2024-09-01
+pearl rush millet,839,108,40,2020-11-01,2024-09-01
+spring onions,820,108,20,2023-02-01,2024-09-01
+chicken (improved kienyeji),359,107,12,2021-01-01,2021-12-01
+thorn melon,809,106,40,2021-01-01,2024-09-01
+maize flour,650,105,36,2021-05-01,2024-09-01
+omena (dried),467,103,12,2021-01-01,2021-12-01
+goat (mixed),372,102,12,2021-01-01,2021-12-01
+apples,885,101,39,2020-11-01,2024-09-01
+"peas, dry",510,101,25,2021-05-01,2023-12-01
+meat (beef),916,100,39,2021-01-01,2024-09-01
+lentils,926,99,35,2021-05-01,2024-09-01
+courgette,943,97,40,2021-01-01,2024-09-01
+tree tomato,791,97,41,2020-12-01,2024-09-01
+"milk (cow, at collection point",714,90,27,2021-01-01,2023-12-01
+banana (plantain),455,90,20,2023-02-01,2024-09-01
+goat (east african goat),341,90,12,2021-01-01,2021-12-01
+rice (sindano),327,89,8,2021-05-01,2021-12-01
+beans (mixed),616,88,25,2021-05-01,2023-12-01
+goat (dairy goats),213,88,12,2021-01-01,2021-12-01
+tangerine (sandara),475,86,36,2021-05-01,2024-09-01
+french beans,673,85,42,2020-11-01,2024-09-01
+eggs (indigenous /kenyeji),318,85,12,2021-01-01,2021-12-01
+jute plant (murenda),584,83,40,2020-11-01,2024-09-01
+groundnuts (small red),306,82,12,2021-01-01,2021-12-01
+fertilizer,584,81,28,2022-01-01,2024-09-01
+avocado (fuerte),201,81,8,2021-05-01,2021-12-01
+mangoes (apple),173,80,5,2021-01-01,2021-05-01
+fertilizer (can),257,75,8,2021-05-01,2021-12-01
+indigenous crotolaria (mito/miro),541,74,42,2020-11-01,2024-09-01
+fresh peas,498,73,20,2023-02-01,2024-09-01
+tilapia,456,71,30,2020-12-01,2024-09-01
+rice (aromatic-pishori),171,71,5,2021-01-01,2021-05-01
+fertilizer (dap),245,70,8,2021-05-01,2021-12-01
+lettuce,678,69,135,2012-01-01,2024-09-01
+green grams (makueni),275,69,12,2021-01-01,2021-12-01
+cattle (mixed),264,69,9,2021-04-01,2021-12-01
+chicken (broiler),190,69,12,2021-01-01,2021-12-01
+sheep (red maasai),289,67,12,2021-01-01,2021-12-01
+mixed beans,388,65,20,2023-02-01,2024-09-01
+yam,371,65,42,2020-11-01,2024-09-01
+nderema- vine spinach,296,65,42,2020-11-01,2024-09-01
+cattle (zebu),231,64,9,2021-04-01,2021-12-01
+donkey,504,63,40,2020-12-01,2024-09-01
+cauliflower,718,61,135,2012-01-01,2024-09-01
+mangoes (ngowe),891,60,99,2012-01-01,2021-05-01
+"milk (cow, processed)",340,60,27,2021-01-01,2023-12-01
+wheat flour,252,59,29,2021-06-01,2024-09-01
+goat (galla),227,59,12,2021-01-01,2021-12-01
+fertilizer (npk),183,58,8,2021-05-01,2021-12-01
+dry peas,266,55,20,2023-02-01,2024-09-01
+broccoli,481,54,36,2021-05-01,2024-09-01
+pepino melon,250,52,40,2021-01-01,2024-09-01
+grapes,239,49,31,2020-11-01,2024-09-01
+cow milk (at collection point),340,47,20,2023-02-01,2024-09-01
+nile perch,251,47,29,2020-12-01,2024-09-01
+sorghum,1189,44,93,2012-01-01,2020-10-01
+meat (pork),310,44,39,2021-01-01,2024-09-01
+meat (mutton),266,44,39,2021-01-01,2024-09-01
+sheep (dorper),180,44,12,2021-01-01,2021-12-01
+ethiopian kales -kanzira,307,43,40,2020-11-01,2024-09-01
+honey,158,43,27,2022-02-01,2024-09-01
+"milk (camel, at collection point)",154,43,27,2021-01-01,2023-12-01
+rice (non aromatic - sindano),119,43,5,2021-01-01,2021-05-01
+paddy,105,43,22,2022-07-01,2024-09-01
+meat (chevon),390,42,39,2021-01-01,2024-09-01
+cattle (boran),128,39,9,2021-04-01,2021-12-01
+tilapia (fried),134,38,12,2021-01-01,2021-12-01
+cattle (freasian),86,34,9,2021-04-01,2021-12-01
+tilapia (dried),72,34,12,2021-01-01,2021-12-01
+cow milk (processed),158,33,20,2023-02-01,2024-09-01
+tilapia (fresh),133,33,12,2021-01-01,2021-12-01
+okra (lady's fingers or gumbo),174,31,18,2023-04-01,2024-09-01
+rice (imported pakistani),66,31,5,2021-01-01,2021-05-01
+meat (indigenous chicken),96,30,36,2021-01-01,2024-08-01
+avocado (hass),56,30,8,2021-05-01,2021-12-01
+honey (crude),79,29,12,2021-01-01,2021-12-01
+rice (imported other),57,29,5,2021-01-01,2021-05-01
+camel,202,28,29,2021-01-01,2024-09-01
+sheep (somali),70,26,12,2021-01-01,2021-12-01
+meat (broiler chicken),52,26,30,2021-01-01,2024-09-01
+njugu mawe,148,25,37,2020-11-01,2024-09-01
+"maize, yellow grain, dry",104,25,12,2021-01-01,2021-12-01
+cattle (ayrshire),84,25,9,2021-04-01,2021-12-01
+cat fish (mkizi/fume),67,25,27,2021-01-01,2024-09-01
+banana,39,25,2,2020-12-01,2021-01-01
+nile perch (fresh),99,24,12,2021-01-01,2021-12-01
+maize bran,75,24,33,2021-04-01,2024-08-01
+nile perch (fried),69,24,8,2021-05-01,2021-12-01
+grapes (black-dark),54,24,12,2021-01-01,2021-12-01
+sheep (merino),57,23,12,2021-01-01,2021-12-01
+wheat flour (ajab fortified home baking flour),49,23,6,2021-07-01,2021-12-01
+"milk (goat, at collection point)",70,22,27,2021-01-01,2023-12-01
+honey (processed),54,22,11,2021-02-01,2021-12-01
+rice (imported),22,22,1,2021-06-01,2021-06-01
+chicken (layers),40,21,8,2021-05-01,2021-12-01
+cattle (sahiwal),63,20,9,2021-04-01,2021-12-01
+rice (imported eac),46,20,5,2021-01-01,2021-05-01
+omena (chilled),24,20,5,2021-01-01,2021-05-01
+duck,60,18,15,2022-02-01,2023-12-01
+apples (red),40,18,5,2021-01-01,2021-05-01
+"milk (camel, processed)",33,18,18,2021-02-01,2023-11-01
+mangoes (tommy atkins),28,18,5,2021-01-01,2021-05-01
+omena (fresh),49,17,12,2021-01-01,2021-12-01
+wheat bran,48,17,22,2021-04-01,2024-05-01
+cattle (exotic),25,17,9,2021-04-01,2021-12-01
+meat (camel),71,16,26,2021-01-01,2023-11-01
+camel (somali),70,16,12,2021-01-01,2021-12-01
+coconut oil,38,16,19,2021-05-01,2024-08-01
+duck (black swedish),38,16,8,2021-05-01,2021-12-01
+nile perch (smoked),55,15,12,2021-01-01,2021-12-01
+coconut,47,15,18,2023-04-01,2024-09-01
+camel milk (at collection point),46,15,16,2023-02-01,2024-07-01
+macademia seed,43,15,24,2021-05-01,2024-07-01
+hide (cattle),76,14,24,2021-04-01,2023-12-01
+cat fish (mkizi/fume) (fresh),43,14,12,2021-01-01,2021-12-01
+nile perch (chilled),22,14,5,2021-01-01,2021-05-01
+soybean oil,25,13,11,2021-04-01,2024-09-01
+tilapia (chilled),17,13,5,2021-01-01,2021-05-01
+skin (goat),62,12,23,2021-05-01,2023-12-01
+grapes (red),31,12,12,2021-01-01,2021-12-01
+mangoes (kent),26,12,5,2021-01-01,2021-05-01
+wheat flour (exe all purpose fortified wheat flour),25,12,5,2021-08-01,2021-12-01
+camel (gabra/redille),24,12,10,2021-01-01,2021-12-01
+cattle (other),21,12,8,2021-04-01,2021-12-01
+apples (green),20,12,5,2021-01-01,2021-05-01
+tilapia (smoked),30,11,11,2021-01-01,2021-11-01
+fish scales,29,11,22,2021-05-01,2024-08-01
+"maize, grain, popcorn",25,11,10,2021-01-01,2021-12-01
+"milk (goat, processed)",23,11,13,2021-02-01,2023-12-01
+pigs,22,11,17,2021-08-01,2024-09-01
+rabbit,22,11,19,2021-03-01,2024-06-01
+skin (sheep),56,10,21,2021-07-01,2023-12-01
+sheep skin,49,9,20,2023-02-01,2024-09-01
+cattle hide,43,9,18,2023-02-01,2024-09-01
+wheat flour (dola premium all purpose),16,9,6,2021-07-01,2021-12-01
+sunflower seeds,14,9,12,2021-06-01,2024-09-01
+sharks,51,8,25,2022-02-01,2024-09-01
+fresh water shrimp,50,8,28,2021-01-01,2024-09-01
+goat skin,37,8,19,2023-02-01,2024-09-01
+fish oil,17,8,14,2021-03-01,2024-03-01
+goat milk (at collection point),17,8,12,2023-02-01,2024-09-01
+wheat flour (210 atta mark 1),16,8,6,2021-07-01,2021-12-01
+wheat flour (exe chapati fortified wheat flour),15,8,4,2021-09-01,2021-12-01
+wheat flour (ajab fortified mandazi flour),14,8,5,2021-08-01,2021-12-01
+wheat flour (ndovu all purpose home baking flour),11,8,5,2021-08-01,2021-12-01
+sardines,46,7,26,2021-04-01,2024-09-01
+camel meat,27,7,10,2023-02-01,2023-11-01
+nile perch (fillet),17,7,6,2021-06-01,2021-12-01
+omena (fried),13,7,8,2021-01-01,2021-11-01
+labeo,11,7,8,2022-04-01,2024-06-01
+cattle (guernsey),10,7,5,2021-07-01,2021-12-01
+common carp,9,7,7,2021-01-01,2024-08-01
+rabbitfish (tafi/tasi),48,6,27,2022-02-01,2024-09-01
+tuna,43,6,21,2022-02-01,2024-09-01
+mullets (fumi),34,6,24,2021-01-01,2024-09-01
+protopterus,33,6,20,2020-12-01,2024-09-01
+cat fish (mkizi/fume) (headless and gutted),23,6,12,2021-01-01,2021-12-01
+common carp (fresh),22,6,11,2021-02-01,2021-12-01
+grunt (taamamba/kora),19,6,18,2022-02-01,2024-06-01
+cat fish (mkizi/fume) (smoked),18,6,9,2021-01-01,2021-09-01
+nile perch (headless and gutted),17,6,5,2021-01-01,2021-05-01
+sheep (wool sheep),17,6,10,2021-03-01,2021-12-01
+synodontis (fresh),13,6,7,2021-04-01,2021-12-01
+common carp (dried),12,6,9,2021-02-01,2021-12-01
+spaghetti,11,6,10,2021-08-01,2024-05-01
+other fresh water,10,6,7,2022-05-01,2024-07-01
+nile perch skins,8,6,7,2021-03-01,2024-05-01
+camel milk (processed),6,6,4,2023-05-01,2023-11-01
+sunflower oil,6,6,6,2021-08-01,2024-09-01
+jacks/trevallies (kolekole),42,5,26,2021-03-01,2024-09-01
+parrotfishes (pono),38,5,28,2021-01-01,2024-09-01
+kingfish (nguru),37,5,21,2022-02-01,2024-09-01
+octopus (pweza),37,5,28,2021-01-01,2024-09-01
+barracuda (kasumba),32,5,25,2022-02-01,2024-09-01
+snappers (tazanda),23,5,16,2022-02-01,2024-09-01
+synodontis,23,5,17,2022-02-01,2024-09-01
+cat fish (african butter),21,5,15,2022-02-01,2024-09-01
+pasta,21,5,17,2021-08-01,2023-06-01
+other fresh water (dried),12,5,6,2021-06-01,2021-12-01
+tea,10,5,9,2021-05-01,2024-03-01
+cattle (somali spotted),9,5,5,2021-05-01,2021-12-01
+mangoes (haden),8,5,5,2021-01-01,2021-05-01
+wheat flour (exe atta mark 1),8,5,5,2021-08-01,2021-12-01
+cat fish (mkizi/fume) (chilled),5,5,5,2021-01-01,2021-11-01
+scavengers (changu/tangu),44,4,29,2021-01-01,2024-09-01
+anchovies,35,4,27,2021-01-01,2024-09-01
+mackerel,29,4,26,2022-02-01,2024-09-01
+prawns,27,4,21,2022-05-01,2024-09-01
+protopterus (fresh),24,4,12,2021-01-01,2021-12-01
+rockcode (tewa),18,4,11,2023-01-01,2024-09-01
+camel (turkana),14,4,6,2021-02-01,2021-12-01
+rabbitfish (tafi/tasi) (fresh),13,4,9,2021-01-01,2021-12-01
+hide (camel),11,4,10,2021-11-01,2023-11-01
+octopus (pweza) (fresh),11,4,7,2021-06-01,2021-12-01
+wheat flour (210 home baking flour),10,4,5,2021-08-01,2021-12-01
+mackerel (fresh),9,4,6,2021-06-01,2021-12-01
+snappers (tazanda) (fresh),9,4,7,2021-02-01,2021-12-01
+sheep (hampshire down),8,4,6,2021-01-01,2021-12-01
+grunt (taamamba/kora) (fresh),7,4,6,2021-05-01,2021-11-01
+sardines (dried),7,4,4,2021-09-01,2021-12-01
+duck (khaki campbell),5,4,4,2021-05-01,2021-11-01
+cat fish (mkizi/fume) (dried),4,4,3,2021-01-01,2021-06-01
+goat milk (processed),4,4,3,2023-05-01,2023-12-01
+wheat flour (dola atta mark 1),4,4,3,2021-08-01,2021-10-01
+squid (ngisi),30,3,26,2021-01-01,2024-09-01
+haplochromis,27,3,18,2022-02-01,2024-09-01
+needlefishes,27,3,24,2022-02-01,2024-09-01
+lobster (kamba mawe),23,3,20,2021-04-01,2024-09-01
+queenfish (pandu),15,3,12,2023-01-01,2024-04-01
+mormyrus,13,3,11,2022-06-01,2024-08-01
+tuna (fresh),12,3,8,2021-04-01,2021-12-01
+jacks/trevallies (kolekole) (fresh),11,3,8,2021-05-01,2021-12-01
+tuna (frozen/chilled),11,3,5,2021-08-01,2021-12-01
+other fresh water (fresh),10,3,9,2021-04-01,2021-12-01
+scavengers (changu/tangu) (fresh),10,3,7,2021-06-01,2021-12-01
+fresh water shrimp (dried),8,3,6,2021-06-01,2021-11-01
+sharks (dried),8,3,5,2021-08-01,2021-12-01
+"cat fish (african butter, fresh)",7,3,6,2021-06-01,2021-12-01
+marlins,7,3,6,2022-02-01,2023-05-01
+anchovies (dried),5,3,4,2021-05-01,2021-10-01
+black bass,5,3,5,2022-04-01,2024-08-01
+sardines (fresh),5,3,5,2021-06-01,2021-12-01
+sharks (chilled),5,3,5,2021-06-01,2021-12-01
+synodontis (dried),5,3,4,2021-06-01,2021-10-01
+anchovies (fresh),4,3,4,2021-06-01,2021-12-01
+"cat fish (african butter, dried)",4,3,3,2021-08-01,2021-11-01
+haplochromis (dried),4,3,4,2021-04-01,2021-12-01
+mangoes (van dyke),4,3,2,2021-01-01,2021-02-01
+nile perch (frozen),4,3,3,2021-01-01,2021-04-01
+nile perch (frozen/chilled),4,3,3,2021-06-01,2021-09-01
+wheat flour (golden all purpose),4,3,4,2021-07-01,2021-12-01
+wheat flour (pembe all purpose home baking flour),4,3,3,2021-09-01,2021-12-01
+wheat flour (soko all purpose home baking flour),4,3,4,2021-08-01,2021-12-01
+meat (rabbit),3,3,3,2022-05-01,2024-08-01
+trout (fresh),3,3,3,2021-10-01,2021-12-01
+wheat flour (pembe home baking),3,3,3,2021-09-01,2021-12-01
+rayfish,37,2,26,2021-01-01,2024-09-01
+goatfishes,25,2,21,2021-02-01,2024-09-01
+wolf herrings,23,2,14,2023-02-01,2024-08-01
+halfbeaks,14,2,14,2022-04-01,2024-08-01
+mud crabs,13,2,11,2021-01-01,2024-06-01
+surgeonfishes,13,2,12,2021-05-01,2024-06-01
+haplochromis (fresh),11,2,9,2021-04-01,2021-12-01
+barracuda (kasumba) (fresh),10,2,8,2021-01-01,2021-12-01
+camel hide,10,2,9,2023-02-01,2023-11-01
+synodontis (smoked),10,2,9,2021-04-01,2021-12-01
+kingfish (nguru) (fresh),8,2,6,2021-05-01,2021-12-01
+sharks (fresh),8,2,7,2021-05-01,2021-12-01
+groupers,7,2,6,2023-01-01,2023-07-01
+jobfish,7,2,7,2022-05-01,2023-10-01
+kingfish (nguru) (frozen/chilled),6,2,5,2021-06-01,2021-12-01
+mud crabs (fresh),6,2,5,2021-08-01,2021-12-01
+prawns (fresh),6,2,5,2021-05-01,2021-11-01
+lobster (kamba mawe) (live),5,2,3,2021-09-01,2021-11-01
+sheep (romney marsh),5,2,4,2021-01-01,2021-12-01
+swordfishes,5,2,4,2023-03-01,2023-07-01
+wheat flour (kifaru all purpose home baking flour),5,2,4,2021-08-01,2021-11-01
+black bass (fresh),4,2,4,2021-05-01,2021-09-01
+marlins (fresh),4,2,2,2021-09-01,2021-10-01
+mixed demersal (fresh),4,2,4,2021-01-01,2021-11-01
+sardines (frozen/chilled),4,2,3,2021-10-01,2021-12-01
+snappers (tazanda) (frozen/chilled),4,2,3,2021-09-01,2021-12-01
+swordfishes (frozen/chilled),4,2,4,2021-06-01,2021-10-01
+alestes (dried),3,2,3,2021-07-01,2021-10-01
+black bass (dried),3,2,3,2021-06-01,2021-12-01
+fish maws,3,2,2,2021-10-01,2023-07-01
+grunt (taamamba/kora) (dried),3,2,3,2021-06-01,2021-11-01
+kingfish (nguru) (dried),3,2,3,2021-09-01,2021-11-01
+lobster (kamba mawe) (dried),3,2,3,2021-06-01,2021-12-01
+mixed pelagics (fresh),3,2,3,2021-07-01,2021-09-01
+needlefishes (fresh),3,2,2,2021-11-01,2021-12-01
+rayfish (fresh),3,2,2,2021-08-01,2021-12-01
+surgeonfishes (fresh),3,2,3,2021-08-01,2021-12-01
+wheat flour (tropicana home baking flour),3,2,2,2021-10-01,2021-11-01
+fresh water shrimp (fresh),2,2,2,2021-06-01,2021-12-01
+parrotfishes (pono) (fresh),2,2,2,2021-09-01,2021-12-01
+protopterus (chilled),2,2,2,2021-01-01,2021-03-01
+scavengers (changu/tangu) (frozen/chilled),2,2,2,2021-09-01,2021-11-01
+wheat flour (chapati afya),2,2,2,2021-08-01,2021-10-01
+wheat flour (soko atta mark 1),2,2,1,2021-09-01,2021-09-01
+mixed demersal,21,1,21,2022-04-01,2024-08-01
+mixed pelagics,21,1,21,2021-04-01,2024-09-01
+cuttlefish,12,1,12,2023-01-01,2024-03-01
+threadfin breams,5,1,5,2023-02-01,2023-07-01
+groupers (fresh),4,1,4,2021-05-01,2021-11-01
+duck (pekin),3,1,3,2021-07-01,2021-11-01
+golden (deep-sea) crabs kaa,3,1,3,2023-02-01,2023-04-01
+golden (deep-sea) crabs kaa (dried),3,1,3,2021-10-01,2021-12-01
+mackerel (frozen/chilled),3,1,3,2021-09-01,2021-12-01
+mullets (fumi) (fresh),3,1,3,2021-08-01,2021-10-01
+mullets (fumi) (frozen/chilled),3,1,3,2021-09-01,2021-12-01
+octopus (pweza) (dried),3,1,3,2021-10-01,2021-12-01
+oysters,3,1,3,2023-02-01,2023-04-01
+oysters (dried),3,1,3,2021-10-01,2021-12-01
+prawns (dried),3,1,3,2021-10-01,2021-12-01
+squid (ngisi) (dried),3,1,3,2021-10-01,2021-12-01
+tilapia (frozen/chilled),3,1,3,2021-06-01,2021-08-01
+goatfishes (frozen/chilled),2,1,2,2021-10-01,2021-11-01
+haplochromis (smoked),2,1,2,2021-06-01,2021-07-01
+jacks/trevallies (kolekole) (frozen/chilled),2,1,2,2021-09-01,2021-10-01
+mud crabs (dried),2,1,2,2021-10-01,2021-11-01
+mullets (fumi) (dried),2,1,2,2021-11-01,2021-12-01
+parrotfishes (pono) (frozen/chilled),2,1,2,2021-09-01,2021-10-01
+sailfishes,2,1,2,2023-03-01,2023-04-01
+squid (ngisi) (fresh),2,1,2,2021-06-01,2021-11-01
+swordfishes (fresh),2,1,2,2021-05-01,2021-06-01
+tilapia (headless and gutted),2,1,2,2021-01-01,2021-02-01
+wheat flour (ajab fortified self raising),2,1,2,2021-09-01,2021-10-01
+wheat flour (elliots all purpose home baking flour),2,1,2,2021-08-01,2021-09-01
+anchovies (fried),1,1,1,2021-05-01,2021-05-01
+barbus (dried),1,1,1,2021-10-01,2021-10-01
+barracuda (kasumba) (dried),1,1,1,2021-10-01,2021-10-01
+barracuda (kasumba) (fried),1,1,1,2021-06-01,2021-06-01
+"cat fish (african butter, frozen/chilled)",1,1,1,2021-10-01,2021-10-01
+"cat fish (african butter, smoked)",1,1,1,2021-01-01,2021-01-01
+cat fish (mkizi/fume) (frozen),1,1,1,2021-10-01,2021-10-01
+common carp (fried),1,1,1,2021-08-01,2021-08-01
+common carp (smoked),1,1,1,2021-03-01,2021-03-01
+cotton,1,1,1,2021-08-01,2021-08-01
+cuttlefish (dried),1,1,1,2021-10-01,2021-10-01
+duck (muscovy),1,1,1,2021-10-01,2021-10-01
+goatfishes (fresh),1,1,1,2021-07-01,2021-07-01
+golden (deep-sea) crabs kaa (fresh),1,1,1,2021-08-01,2021-08-01
+grapes (white),1,1,1,2021-08-01,2021-08-01
+groupers (dried),1,1,1,2021-10-01,2021-10-01
+halfbeaks (dried),1,1,1,2021-10-01,2021-10-01
+halfbeaks (fresh),1,1,1,2021-11-01,2021-11-01
+jobfish (dried),1,1,1,2021-11-01,2021-11-01
+jobfish (fresh),1,1,1,2021-11-01,2021-11-01
+labeo (fresh),1,1,1,2021-06-01,2021-06-01
+lobster (kamba mawe) (fried),1,1,1,2021-06-01,2021-06-01
+mangoes (sensation),1,1,1,2021-02-01,2021-02-01
+marlins (dried),1,1,1,2021-10-01,2021-10-01
+mixed demersal (dried),1,1,1,2021-11-01,2021-11-01
+mormyrus (dried),1,1,1,2021-10-01,2021-10-01
+parrotfishes (pono) (dried),1,1,1,2021-11-01,2021-11-01
+protopterus (dried),1,1,1,2021-10-01,2021-10-01
+protopterus (headless and gutted),1,1,1,2021-03-01,2021-03-01
+rayfish (dried),1,1,1,2021-09-01,2021-09-01
+rayfish (fried),1,1,1,2021-06-01,2021-06-01
+sailfishes (fresh),1,1,1,2021-12-01,2021-12-01
+sharks (frozen/chilled),1,1,1,2021-06-01,2021-06-01
+sheep (broiler),1,1,1,2021-12-01,2021-12-01
+sheep (dairy goats),1,1,1,2021-05-01,2021-05-01
+snappers (tazanda) (chilled),1,1,1,2021-03-01,2021-03-01
+snappers (tazanda) (dried),1,1,1,2021-11-01,2021-11-01
+sunflower cake,1,1,1,2024-08-01,2024-08-01
+swordfishes (dried),1,1,1,2021-11-01,2021-11-01
+trout,1,1,1,2022-03-01,2022-03-01
+tuna (dried),1,1,1,2021-10-01,2021-10-01
+wheat flour (exe brown bread),1,1,1,2021-10-01,2021-10-01
+wheat flour (exe mandazi fortified wheat flour),1,1,1,2021-11-01,2021-11-01
+wheat flour (exe self raising),1,1,1,2021-08-01,2021-08-01
+wheat flour (mama home baking flour),1,1,1,2021-11-01,2021-11-01
+wheat flour (nutra meal atta mark 1),1,1,1,2021-07-01,2021-07-01
+wolf herrings (dried),1,1,1,2021-11-01,2021-11-01
+wolf herrings (fresh),1,1,1,2021-10-01,2021-10-01

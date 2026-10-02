@@ -1,0 +1,311 @@
+market,county,observations,observed_months,first_month,last_month,units,kg_values,coverage_pct
+eldoret,uasin gishu,127,127,2012-01-01,2024-09-01,kg,1,94.1
+busia,busia,110,110,2012-01-01,2024-04-01,kg,1,81.5
+nairobi,nairobi city,96,96,2012-01-01,2021-01-01,kg,1,71.1
+nakuru,nakuru,94,94,2012-01-01,2021-01-01,kg,1,69.6
+embu,embu,90,90,2012-01-01,2024-09-01,kg,1,66.7
+kisumu,kisumu,90,90,2012-01-01,2021-01-01,kg,1,66.7
+mombasa,mombasa,89,89,2012-01-01,2020-02-01,kg,1,65.9
+kisii,kisii,87,87,2012-04-01,2021-01-01,kg,1,64.4
+kitale,trans nzoia,82,82,2012-01-01,2020-02-01,kg,1,60.7
+kitui,kitui,82,82,2012-01-01,2021-01-01,kg,1,60.7
+malindi,kilifi,80,80,2012-01-01,2020-02-01,kg,1,59.3
+loitoktok,kajiado,79,79,2012-01-01,2022-07-01,kg,1,58.5
+isiolo,isiolo,64,64,2012-04-01,2022-07-01,kg,1,47.4
+karatina,nyeri,63,63,2012-01-01,2024-05-01,kg,1,46.7
+kajiado,kajiado,62,62,2012-12-01,2023-08-01,kg,1,45.9
+chwele,bungoma,58,58,2012-01-01,2024-09-01,kg,1,43.0
+kakamega,kakamega,55,55,2012-01-01,2024-09-01,kg,1,40.7
+taveta,taita/taveta,49,49,2012-01-01,2024-08-01,kg,1,36.3
+machakos,machakos,43,43,2012-01-01,2020-12-01,kg,1,31.9
+wajir,wajir,41,41,2015-10-01,2020-12-01,kg,1,30.4
+rongo,migori,40,40,2021-01-01,2024-09-01,kg,1,29.6
+kagio,kirinyaga,39,39,2021-01-01,2024-09-01,kg,1,28.9
+chuka,tharaka-nthi,38,38,2021-01-01,2024-09-01,kg,1,28.1
+gakoromone,meru,38,38,2021-02-01,2024-09-01,kg,1,28.1
+ahero,kisumu,37,37,2021-01-01,2024-09-01,kg,1,27.4
+kangeta,meru,37,37,2021-02-01,2024-09-01,kg,1,27.4
+ngurubani,kirinyaga,37,37,2021-01-01,2024-09-01,kg,1,27.4
+aram,siaya,36,36,2021-01-01,2024-09-01,kg,1,26.7
+kibiok,nandi,36,36,2021-03-01,2024-09-01,kg,1,26.7
+mabera,migori,36,36,2021-01-01,2024-09-01,kg,1,26.7
+marindi,migori,36,36,2021-01-01,2024-09-01,kg,1,26.7
+maua,meru,35,35,2013-03-01,2024-09-01,kg,1,25.9
+kathonzweni,makueni,33,33,2021-01-01,2024-09-01,kg,1,24.4
+kinango,kwale,33,33,2021-08-01,2024-09-01,kg,1,24.4
+muhoroni,kisumu,33,33,2021-01-01,2024-09-01,kg,1,24.4
+bondo,siaya,32,32,2021-01-01,2024-09-01,kg,1,23.7
+miruka,nyamira,32,32,2021-01-01,2024-09-01,kg,1,23.7
+kabiyet,nandi,31,31,2021-03-01,2024-09-01,kg,1,23.0
+kapkwen,bomet,31,31,2021-06-01,2024-09-01,kg,1,23.0
+kitale municipality,trans nzoia,31,31,2021-08-01,2024-08-01,kg,1,23.0
+nairobi kangemi,nairobi city,31,31,2021-03-01,2024-07-01,kg,1,23.0
+imenti,meru,30,30,2012-01-01,2018-03-01,kg,1,22.2
+kibuye,kisumu,30,30,2021-03-01,2024-09-01,kg,1,22.2
+kisasi,kitui,30,30,2021-04-01,2024-09-01,kg,1,22.2
+kutus,kirinyaga,30,30,2021-09-01,2024-09-01,kg,1,22.2
+nyeri,nyeri,30,30,2020-02-01,2024-04-01,kg,1,22.2
+keroka,nyamira,29,29,2021-03-01,2024-09-01,kg,1,21.5
+mwingi,kitui,29,29,2013-02-01,2024-09-01,kg,1,21.5
+othaya,nyeri,29,29,2021-02-01,2024-02-01,kg,1,21.5
+akala,siaya,28,28,2021-01-01,2024-09-01,kg,1,20.7
+charo wa mae,kilifi,28,28,2021-08-01,2024-09-01,kg,1,20.7
+gongoni,kilifi,28,28,2021-08-01,2024-09-01,kg,1,20.7
+katito,kisumu,28,28,2021-01-01,2024-09-01,kg,1,20.7
+kitengela,kajiado,28,28,2021-01-01,2023-09-01,kg,1,20.7
+mtwapa,kilifi,28,28,2021-03-01,2024-08-01,kg,1,20.7
+bungoma,bungoma,27,27,2013-03-01,2024-09-01,kg,1,20.0
+daraja mbili,kisii,27,27,2021-01-01,2024-03-01,kg,1,20.0
+mbale,vihiga,27,27,2021-01-01,2024-09-01,kg,1,20.0
+chebunyo,bomet,26,26,2021-06-01,2024-09-01,kg,1,19.3
+chepareria,west pokot,26,26,2021-01-01,2023-07-01,kg,1,19.3
+gakindu,nyeri,26,26,2021-01-01,2023-10-01,kg,1,19.3
+garissa,garissa,26,26,2012-06-01,2021-01-01,kg,1,19.3
+kabarnet,baringo,26,26,2021-01-01,2023-07-01,kg,1,19.3
+mariakani,kilifi,26,26,2021-04-01,2024-06-01,kg,1,19.3
+naivasha,nakuru,26,26,2021-01-01,2024-02-01,kg,1,19.3
+ngong,kajiado,26,26,2021-01-01,2023-08-01,kg,1,19.3
+soko mjinga,wajir,26,26,2021-01-01,2023-12-01,kg,1,19.3
+soko mugdi,garissa,26,26,2021-01-01,2023-07-01,kg,1,19.3
+wakulima,nakuru,26,26,2021-01-01,2023-12-01,kg,1,19.3
+wundanyi,taita/taveta,26,26,2021-01-01,2024-09-01,kg,1,19.3
+kalundu,kitui,25,25,2021-01-01,2024-09-01,kg,1,18.5
+kimilili,bungoma,25,25,2021-08-01,2024-09-01,kg,1,18.5
+makutano,west pokot,25,25,2021-01-01,2023-07-01,kg,1,18.5
+ortum,west pokot,25,25,2021-01-01,2023-08-01,kg,1,18.5
+town,embu,25,25,2021-04-01,2023-12-01,kg,1,18.5
+eldama ravine,baringo,24,24,2021-01-01,2023-06-01,kg,1,17.8
+kamukuywa,bungoma,24,24,2021-01-01,2024-08-01,kg,1,17.8
+marigat,baringo,24,24,2021-01-01,2023-07-01,kg,1,17.8
+mulot,bomet,24,24,2021-06-01,2024-09-01,kg,1,17.8
+mwatate,taita/taveta,24,24,2021-02-01,2024-09-01,kg,1,17.8
+nyahururu,laikipia,24,24,2012-01-01,2014-02-01,kg,1,17.8
+town,bungoma,24,24,2021-01-01,2023-12-01,kg,1,17.8
+ikonge,nyamira,23,23,2021-08-01,2024-07-01,kg,1,17.0
+kapsowar,elgeyo/marakwet,23,23,2012-12-01,2023-08-01,kg,1,17.0
+kathwana,tharaka-nthi,23,23,2021-03-01,2024-02-01,kg,1,17.0
+kipsitet,kericho,23,23,2021-01-01,2023-11-01,kg,1,17.0
+masii,machakos,23,23,2021-02-01,2023-05-01,kg,1,17.0
+ol kalou,nyandarua,23,23,2021-09-01,2024-05-01,kg,1,17.0
+sibanga,trans nzoia,23,23,2021-08-01,2024-08-01,kg,1,17.0
+chepsonoi,nandi,22,22,2021-02-01,2024-04-01,kg,1,16.3
+ilbissil,kajiado,22,22,2021-01-01,2023-08-01,kg,1,16.3
+kerugoya,kirinyaga,22,22,2021-08-01,2024-09-01,kg,1,16.3
+kongowea,mombasa,22,22,2021-02-01,2023-11-01,kg,1,16.3
+lomut,west pokot,22,22,2021-03-01,2023-05-01,kg,1,16.3
+mairo-inya,nyandarua,22,22,2021-02-01,2023-06-01,kg,1,16.3
+soko mpya,nyandarua,22,22,2021-04-01,2023-12-01,kg,1,16.3
+suneka,kisii,22,22,2021-09-01,2024-04-01,kg,1,16.3
+flax,elgeyo/marakwet,21,21,2021-02-01,2023-09-01,kg,1,15.6
+holo,kisumu,21,21,2021-02-01,2023-09-01,kg,1,15.6
+kapsabet,nandi,21,21,2021-09-01,2024-09-01,kg,1,15.6
+kasuku,nyandarua,21,21,2021-03-01,2023-06-01,kg,1,15.6
+kilingili,vihiga,21,21,2021-01-01,2023-09-01,kg,1,15.6
+kiserian,kajiado,21,21,2021-04-01,2023-09-01,kg,1,15.6
+lungalunga,kwale,21,21,2021-09-01,2024-09-01,kg,1,15.6
+mogogosiek,bomet,21,21,2021-07-01,2024-09-01,kg,1,15.6
+takaba,mandera,21,21,2021-01-01,2023-06-01,kg,1,15.6
+ugunja,siaya,21,21,2021-02-01,2024-09-01,kg,1,15.6
+webuye,bungoma,21,21,2021-07-01,2024-09-01,kg,1,15.6
+bondeni,trans nzoia,20,20,2023-01-01,2024-09-01,kg,1,14.8
+cheptulu,vihiga,20,20,2021-08-01,2024-09-01,kg,1,14.8
+elwak,mandera,20,20,2021-02-01,2023-03-01,kg,1,14.8
+kaanwa,tharaka-nthi,20,20,2021-01-01,2024-02-01,kg,1,14.8
+makutano kirinyaga,kirinyaga,20,20,2023-02-01,2024-09-01,kg,1,14.8
+mpeketoni,lamu,20,20,2021-09-01,2023-09-01,kg,1,14.8
+ndhiwa,homabay,20,20,2021-07-01,2023-07-01,kg,1,14.8
+nkubu,meru,20,20,2023-02-01,2024-09-01,kg,1,14.8
+nyangusu,kisii,20,20,2021-01-01,2024-04-01,kg,1,14.8
+rhamu,mandera,20,20,2021-02-01,2023-04-01,kg,1,14.8
+emali,makueni,19,19,2021-09-01,2023-12-01,kg,1,14.1
+makutano,kirinyaga,19,19,2021-03-01,2023-12-01,kg,1,14.1
+malindi old,kilifi,19,19,2021-08-01,2024-08-01,kg,1,14.1
+samburu,kwale,19,19,2021-09-01,2024-07-01,kg,1,14.1
+chaka,nyeri,18,18,2021-09-01,2023-08-01,kg,1,13.3
+diani,kwale,18,18,2023-02-01,2024-09-01,kg,1,13.3
+homabay soko mjinga,homabay,18,18,2021-03-01,2023-05-01,kg,1,13.3
+kiritiri,embu,18,18,2021-09-01,2023-07-01,kg,1,13.3
+mois bridge,uasin gishu,18,18,2021-02-01,2023-08-01,kg,1,13.3
+tala centre,machakos,18,18,2021-02-01,2022-07-01,kg,1,13.3
+ukunda show ground,kwale,18,18,2021-08-01,2023-06-01,kg,1,13.3
+gatunga,tharaka-nthi,17,17,2021-09-01,2024-03-01,kg,1,12.6
+luanda,vihiga,17,17,2021-03-01,2023-09-01,kg,1,12.6
+malimili,kakamega,17,17,2021-05-01,2024-09-01,kg,1,12.6
+mbita,homabay,17,17,2021-07-01,2023-08-01,kg,1,12.6
+meru,meru,17,17,2018-04-01,2021-01-01,kg,1,12.6
+mowlem,trans nzoia,17,17,2021-06-01,2023-08-01,kg,1,12.6
+mwangulu,kwale,17,17,2021-09-01,2024-07-01,kg,1,12.6
+nyakwere,homabay,17,17,2021-07-01,2023-05-01,kg,1,12.6
+voi wholesale,taita/taveta,17,17,2022-07-01,2024-09-01,kg,1,12.6
+chepseon,kericho,16,16,2021-01-01,2023-12-01,kg,1,11.9
+kapkatet,kericho,16,16,2021-01-01,2023-08-01,kg,1,11.9
+kasikeu,makueni,16,16,2021-08-01,2024-07-01,kg,1,11.9
+nairobi kawangware,nairobi city,16,16,2021-01-01,2024-09-01,kg,1,11.9
+nakuru wakulima,nakuru,16,16,2023-02-01,2024-05-01,kg,1,11.9
+nyakoe,kisii,16,16,2021-01-01,2024-03-01,kg,1,11.9
+voi,taita/taveta,16,16,2021-01-01,2022-07-01,kg,1,11.9
+wath ong'er,migori,16,16,2021-01-01,2023-08-01,kg,1,11.9
+engineer,nyandarua,15,15,2021-08-01,2023-06-01,kg,1,11.1
+kabati - muranga,muranga,15,15,2023-04-01,2024-09-01,kg,1,11.1
+kiminini kitale,trans nzoia,15,15,2021-12-01,2023-07-01,kg,1,11.1
+kimumu - bahati,uasin gishu,15,15,2021-02-01,2024-07-01,kg,1,11.1
+nairobi nairobi wakulima,nairobi city,15,15,2021-05-01,2023-12-01,kg,1,11.1
+nairobi wakulima,nairobi city,15,15,2023-07-01,2024-09-01,kg,1,11.1
+nanyuki,laikipia,15,15,2021-09-01,2023-09-01,kg,1,11.1
+nyahururu municipal,laikipia,15,15,2021-02-01,2023-07-01,kg,1,11.1
+soko mjinga wajir,wajir,15,15,2023-03-01,2024-06-01,kg,1,11.1
+town,kericho,15,15,2021-02-01,2023-11-01,kg,1,11.1
+chepterit,nandi,14,14,2021-03-01,2023-12-01,kg,1,10.4
+kakuma modern,turkana,14,14,2021-08-01,2023-06-01,kg,1,10.4
+kapcherop,elgeyo/marakwet,14,14,2021-05-01,2023-06-01,kg,1,10.4
+kericho,kericho,14,14,2020-12-01,2024-03-01,kg,1,10.4
+tharaka,tharaka-nthi,14,14,2013-06-01,2015-04-01,kg,1,10.4
+town,kakamega,14,14,2021-01-01,2022-07-01,kg,1,10.4
+athi river,machakos,13,13,2021-07-01,2022-07-01,kg,1,9.6
+khayega,kakamega,13,13,2023-01-01,2024-09-01,kg,1,9.6
+amoni,busia,12,12,2021-01-01,2023-08-01,kg,1,8.9
+chepterit - nandi,nandi,12,12,2023-02-01,2024-07-01,kg,1,8.9
+garsen,tana river,12,12,2021-08-01,2023-02-01,kg,1,8.9
+kabati kitui,kitui,12,12,2023-02-01,2024-09-01,kg,1,8.9
+kambu,makueni,12,12,2021-09-01,2023-08-01,kg,1,8.9
+oyugis,homabay,12,12,2021-07-01,2023-05-01,kg,1,8.9
+sega,mombasa,12,12,2021-09-01,2023-08-01,kg,1,8.9
+tawa,makueni,12,12,2022-07-01,2024-09-01,kg,1,8.9
+wangige,kiambu,12,12,2021-01-01,2022-02-01,kg,1,8.9
+kaare,tharaka-nthi,11,11,2021-09-01,2023-06-01,kg,1,8.1
+kabati,kitui,11,11,2021-06-01,2023-06-01,kg,1,8.1
+kipkaren,kakamega,11,11,2021-09-01,2024-09-01,kg,1,8.1
+lodwar,turkana,11,11,2021-08-01,2023-05-01,kg,1,8.1
+majengo,vihiga,11,11,2022-04-01,2023-07-01,kg,1,8.1
+mumias,kakamega,11,11,2021-01-01,2024-09-01,kg,1,8.1
+nunguni,makueni,11,11,2021-05-01,2023-01-01,kg,1,8.1
+orolwo,west pokot,11,11,2021-08-01,2023-08-01,kg,1,8.1
+runyenjes,embu,11,11,2021-09-01,2023-08-01,kg,1,8.1
+shika adabu,mombasa,11,11,2021-05-01,2023-06-01,kg,1,8.1
+amu,lamu,10,10,2021-02-01,2022-05-01,kg,1,7.4
+langas,uasin gishu,10,10,2021-02-01,2023-08-01,kg,1,7.4
+maralal,samburu,10,10,2021-09-01,2023-11-01,kg,1,7.4
+mukuyu,muranga,10,10,2021-08-01,2024-09-01,kg,1,7.4
+muthurwa,narok,10,10,2021-06-01,2023-07-01,kg,1,7.4
+serem,vihiga,10,10,2021-09-01,2023-06-01,kg,1,7.4
+sikhendu,trans nzoia,10,10,2021-08-01,2024-06-01,kg,1,7.4
+awendo,migori,9,9,2021-02-01,2022-07-01,kg,1,6.7
+cheptiret,uasin gishu,9,9,2021-04-01,2022-05-01,kg,1,6.7
+chumvini,taita/taveta,9,9,2021-08-01,2024-09-01,kg,1,6.7
+fort tenan,kericho,9,9,2021-01-01,2021-12-01,kg,1,6.7
+keumbu,kisii,9,9,2021-01-01,2023-02-01,kg,1,6.7
+majengo vihiga,vihiga,9,9,2023-02-01,2024-09-01,kg,1,6.7
+ndanai,bomet,9,9,2021-09-01,2024-09-01,kg,1,6.7
+poro,samburu,9,9,2021-09-01,2023-09-01,kg,1,6.7
+serem,nandi,9,9,2021-07-01,2023-05-01,kg,1,6.7
+siaya,siaya,9,9,2020-12-01,2021-08-01,kg,1,6.7
+bahati,nakuru,8,8,2021-08-01,2023-10-01,kg,1,5.9
+bura,tana river,8,8,2021-12-01,2022-07-01,kg,1,5.9
+garissa soko mugdi,garissa,8,8,2023-02-01,2023-10-01,kg,1,5.9
+kangari,muranga,8,8,2021-08-01,2023-06-01,kg,1,5.9
+kebirigo,nyamira,8,8,2021-08-01,2024-01-01,kg,1,5.9
+makutano west pokot,west pokot,8,8,2023-02-01,2023-09-01,kg,1,5.9
+molo,nakuru,8,8,2021-02-01,2023-04-01,kg,1,5.9
+nairobi gikomba,nairobi city,8,8,2024-01-01,2024-09-01,kg,1,5.9
+nginyang,baringo,8,8,2022-07-01,2023-09-01,kg,1,5.9
+siakago,embu,8,8,2021-08-01,2022-03-01,kg,1,5.9
+sondu,kisumu,8,8,2021-05-01,2022-05-01,kg,1,5.9
+kabati,muranga,7,7,2022-07-01,2023-12-01,kg,1,5.2
+main,machakos,7,7,2021-08-01,2022-04-01,kg,1,5.2
+makueni,makueni,7,7,2016-03-01,2021-05-01,kg,1,5.2
+mghange,taita/taveta,7,7,2023-01-01,2024-08-01,kg,1,5.2
+nyansiongo,nyamira,7,7,2022-06-01,2024-02-01,kg,1,5.2
+serem - vihiga,vihiga,7,7,2023-02-01,2024-06-01,kg,1,5.2
+sondu,kericho,7,7,2021-02-01,2023-07-01,kg,1,5.2
+stadium kitale,trans nzoia,7,7,2021-08-01,2022-07-01,kg,1,5.2
+thika,kiambu,7,7,2012-01-01,2014-09-01,kg,1,5.2
+tseikuru,kitui,7,7,2021-01-01,2022-07-01,kg,1,5.2
+kagunduini,muranga,6,6,2021-08-01,2023-06-01,kg,1,4.4
+lamu,lamu,6,6,2020-11-01,2023-06-01,kg,1,4.4
+lodwar fresh produce,turkana,6,6,2023-03-01,2023-09-01,kg,1,4.4
+ngaremare,isiolo,6,6,2022-06-01,2023-06-01,kg,1,4.4
+banisa,mandera,5,5,2021-04-01,2021-12-01,kg,1,3.7
+iten,elgeyo/marakwet,5,5,2023-01-01,2023-06-01,kg,1,3.7
+khaenga,kakamega,5,5,2021-01-01,2021-05-01,kg,1,3.7
+kiria-ini,muranga,5,5,2021-08-01,2024-08-01,kg,1,3.7
+marimanti,tharaka-nthi,5,5,2013-01-01,2015-04-01,kg,1,3.7
+nagele,lamu,5,5,2021-08-01,2022-07-01,kg,1,3.7
+stadium,trans nzoia,5,5,2021-11-01,2022-03-01,kg,1,3.7
+top,nakuru,5,5,2021-09-01,2023-11-01,kg,1,3.7
+imenti n,meru,4,4,2014-07-01,2014-12-01,kg,1,3.0
+kapkayo,elgeyo/marakwet,4,4,2021-09-01,2022-06-01,kg,1,3.0
+kimana,kajiado,4,4,2021-01-01,2021-11-01,kg,1,3.0
+lolkuniyani,samburu,4,4,2021-09-01,2023-07-01,kg,1,3.0
+mosoli,kakamega,4,4,2021-10-01,2022-03-01,kg,1,3.0
+nairobi nairobi gikomba,nairobi city,4,4,2021-11-01,2022-05-01,kg,1,3.0
+nambale,busia,4,4,2021-03-01,2024-04-01,kg,1,3.0
+sabatia,kakamega,4,4,2021-01-01,2024-08-01,kg,1,3.0
+jamhuri,kiambu,3,3,2021-09-01,2023-08-01,kg,1,2.2
+kamwangi,kiambu,3,3,2021-08-01,2023-07-01,kg,1,2.2
+kilgoris,narok,3,3,2021-09-01,2021-11-01,kg,1,2.2
+lekuru,samburu,3,3,2021-09-01,2021-11-01,kg,1,2.2
+limuru rongai,kiambu,3,3,2021-03-01,2021-09-01,kg,1,2.2
+makutano,embu,3,3,2021-09-01,2021-11-01,kg,1,2.2
+mandera,mandera,3,3,2020-12-01,2021-02-01,kg,1,2.2
+mogunga,kisii,3,3,2021-11-01,2022-07-01,kg,1,2.2
+nakuru top,nakuru,3,3,2023-09-01,2023-11-01,kg,1,2.2
+nyamira,nyamira,3,3,2020-11-01,2021-01-01,kg,1,2.2
+oldonyiro,isiolo,3,3,2022-01-01,2022-06-01,kg,1,2.2
+port victoria,busia,3,3,2022-05-01,2023-06-01,kg,1,2.2
+soko posta,busia,3,3,2021-01-01,2021-03-01,kg,1,2.2
+amukura,busia,2,2,2021-03-01,2021-08-01,kg,1,1.5
+elgeyo marakwet,elgeyo/marakwet,2,2,2020-11-01,2020-12-01,kg,1,1.5
+emurua dikkir,narok,2,2,2022-07-01,2023-01-01,kg,1,1.5
+homa bay,homabay,2,2,2020-12-01,2021-01-01,kg,1,1.5
+kirinyaga,kirinyaga,2,2,2020-12-01,2021-01-01,kg,1,1.5
+kiunga,lamu,2,2,2021-04-01,2021-12-01,kg,1,1.5
+laikipia,laikipia,2,2,2020-12-01,2021-01-01,kg,1,1.5
+laza,tana river,2,2,2021-07-01,2021-08-01,kg,1,1.5
+lokichar,turkana,2,2,2021-08-01,2022-05-01,kg,1,1.5
+makupa majengo,mombasa,2,2,2023-02-01,2023-03-01,kg,1,1.5
+makutano embu,embu,2,2,2024-08-01,2024-09-01,kg,1,1.5
+migori,migori,2,2,2020-12-01,2021-01-01,kg,1,1.5
+mogotio,baringo,2,2,2021-11-01,2022-07-01,kg,1,1.5
+mokowe,lamu,2,2,2021-02-01,2022-07-01,kg,1,1.5
+mouwarak,laikipia,2,2,2022-06-01,2022-07-01,kg,1,1.5
+moyale,marsabit,2,2,2021-01-01,2021-04-01,kg,1,1.5
+serem - nandi,nandi,2,2,2023-04-01,2023-05-01,kg,1,1.5
+tharaka e,tharaka-nthi,2,2,2013-07-01,2013-08-01,kg,1,1.5
+tharaka nithi,tharaka-nthi,2,2,2021-03-01,2021-04-01,kg,1,1.5
+tharaka s,tharaka-nthi,2,2,2013-01-01,2014-11-01,kg,1,1.5
+transmara,narok,2,2,2013-03-01,2016-07-01,kg,1,1.5
+vihiga,vihiga,2,2,2020-12-01,2021-01-01,kg,1,1.5
+west pokot,west pokot,2,2,2020-12-01,2021-01-01,kg,1,1.5
+border,busia,1,1,2021-04-01,2021-04-01,kg,1,0.7
+butere,kakamega,1,1,2024-08-01,2024-08-01,kg,1,0.7
+cheptiret - uasin gishu,uasin gishu,1,1,2023-07-01,2023-07-01,kg,1,0.7
+gem,siaya,1,1,2013-02-01,2013-02-01,kg,1,0.7
+githurai,kiambu,1,1,2021-08-01,2021-08-01,kg,1,0.7
+imenti s,meru,1,1,2013-02-01,2013-02-01,kg,1,0.7
+kababu,migori,1,1,2022-06-01,2022-06-01,kg,1,0.7
+keroka,kisii,1,1,2023-02-01,2023-02-01,kg,1,0.7
+keroka kisii,kisii,1,1,2023-02-01,2023-02-01,kg,1,0.7
+kiambu,kiambu,1,1,2020-12-01,2020-12-01,kg,1,0.7
+kibwezi,makueni,1,1,2012-06-01,2012-06-01,kg,1,0.7
+kimanjo,laikipia,1,1,2022-07-01,2022-07-01,kg,1,0.7
+kiria ini,muranga,1,1,2021-06-01,2021-06-01,kg,1,0.7
+kirwara,muranga,1,1,2021-07-01,2021-07-01,kg,1,0.7
+kwale,kwale,1,1,2020-12-01,2020-12-01,kg,1,0.7
+lokiriama,turkana,1,1,2021-09-01,2021-09-01,kg,1,0.7
+lubao,kakamega,1,1,2021-08-01,2021-08-01,kg,1,0.7
+marakwet,elgeyo/marakwet,1,1,2012-11-01,2012-11-01,kg,1,0.7
+marsabit,marsabit,1,1,2021-01-01,2021-01-01,kg,1,0.7
+mathira,nyeri,1,1,2012-06-01,2012-06-01,kg,1,0.7
+merti,isiolo,1,1,2021-10-01,2021-10-01,kg,1,0.7
+mwala,machakos,1,1,2013-02-01,2013-02-01,kg,1,0.7
+nyakongo,kisii,1,1,2022-06-01,2022-06-01,kg,1,0.7
+ololulung'a,narok,1,1,2022-06-01,2022-06-01,kg,1,0.7
+samburu,samburu,1,1,2020-11-01,2020-11-01,kg,1,0.7
+sengwer,elgeyo/marakwet,1,1,2021-06-01,2021-06-01,kg,1,0.7
+sondu- kericho,kericho,1,1,2023-07-01,2023-07-01,kg,1,0.7
+taita taveta,taita/taveta,1,1,2021-01-01,2021-01-01,kg,1,0.7
+tharaka n,tharaka-nthi,1,1,2013-02-01,2013-02-01,kg,1,0.7
+tharaka north,tharaka-nthi,1,1,2013-01-01,2013-01-01,kg,1,0.7
+trans nzoia,trans nzoia,1,1,2020-11-01,2020-11-01,kg,1,0.7
+uasin gishu,uasin gishu,1,1,2020-12-01,2020-12-01,kg,1,0.7
+yala,siaya,1,1,2013-03-01,2013-03-01,kg,1,0.7

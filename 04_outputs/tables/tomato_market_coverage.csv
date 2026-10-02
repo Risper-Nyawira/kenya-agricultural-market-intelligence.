@@ -1,0 +1,22 @@
+market,county,latitude,longitude,observations,observed_months,first_month,last_month,coverage_of_available_tomato_months,unit
+Kibuye (Kisumu),Kisumu,-0.09,34.77,43,43,2021-03,2026-05,0.6825,64 KG
+Eldoret town (Uasin Gishu),Uasin Gishu,0.52,35.28,41,41,2021-01,2025-05,0.6508,64 KG
+Kangemi (Nairobi),Nairobi,-1.27,36.74,39,39,2021-03,2026-03,0.619,64 KG
+Kathonzweni (Makueni),Makueni,-1.91,37.73,39,39,2021-03,2026-05,0.619,64 KG
+Wakulima (Nakuru),Nakuru,-0.3,36.08,35,35,2021-01,2024-06,0.5556,64 KG
+Garissa town (Garissa),Garissa,-0.46,39.64,31,31,2021-01,2023-10,0.4921,64 KG
+Kitengela (Kajiado),Nairobi,-1.29,36.86,31,31,2021-01,2023-07,0.4921,64 KG
+Karatina (Nyeri),Nyeri,-0.48,37.13,30,30,2021-01,2024-06,0.4762,64 KG
+Makutano (West Pokot),West Pokot,1.25,35.08,27,27,2021-02,2023-07,0.4286,64 KG
+Wakulima (Nairobi),Nairobi,-1.29,36.83,27,27,2021-05,2025-06,0.4286,64 KG
+Lomut (West Pokot),West Pokot,1.44,35.57,26,26,2021-03,2023-04,0.4127,64 KG
+Marigat town (Baringo),Baringo,0.47,35.98,26,26,2021-01,2023-07,0.4127,64 KG
+Kaanwa (Tharaka Nithi),Meru South,-0.32,37.72,22,22,2021-03,2024-02,0.3492,64 KG
+Kongowea (Mombasa),Mombasa,-4.06,39.66,22,22,2021-02,2023-07,0.3492,64 KG
+Tala Centre Market (Machakos),Machakos,-1.27,37.32,21,21,2021-03,2022-12,0.3333,64 KG
+Illbissil Food Market (Kajiado),Kajiado,-2.1,36.79,19,19,2021-01,2023-07,0.3016,64 KG
+Takaba (Mandera),Mandera,3.39,40.23,19,19,2021-01,2023-06,0.3016,64 KG
+Kitui town (Kitui),Kitui,-1.36,38.01,7,7,2021-01,2021-11,0.1111,64 KG
+Makueni,Makueni,-1.81,37.62,4,4,2021-01,2021-05,0.0635,64 KG
+Wote town (Makueni),Makueni,-1.79,37.63,4,4,2021-01,2021-05,0.0635,64 KG
+Vanga (Kwale),Kwale,-4.66,39.22,2,2,2021-01,2024-01,0.0317,64 KG

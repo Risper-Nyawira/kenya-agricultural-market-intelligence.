@@ -1,0 +1,16 @@
+# Raw source downloads stay local; the source register documents how to obtain them.
+01_data/raw/
+
+# Local Python environment and temporary runtime files.
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.err
+
+# Large raw workbook profile; reproducible from the raw KAMIS workbook.
+06_outputs/tables/kamis_raw_profile_sample.csv
+
+# OS/editor files.
+.DS_Store
+Thumbs.db
